@@ -312,7 +312,7 @@
             "last_commit": "2026-05-28T12:24:43Z",
             "owner": "KZDKM",
             "repo": "Hyprspace",
-            "stars": 1258
+            "stars": 1260
           }
         },
         {
@@ -326,7 +326,7 @@
             "last_commit": "2026-07-23T05:40:00Z",
             "owner": "outfoxxed",
             "repo": "hy3",
-            "stars": 1162
+            "stars": 1164
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2026-08-06T09:27:11Z",
             "owner": "VirtCode",
             "repo": "hypr-dynamic-cursors",
-            "stars": 698
+            "stars": 700
           }
         },
         {
@@ -699,7 +699,7 @@
             "last_commit": "2026-08-11T16:23:06Z",
             "owner": "hyprwm",
             "repo": "hyprlock",
-            "stars": 1630
+            "stars": 1631
           }
         },
         {
@@ -766,7 +766,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-11T16:23:22Z",
+            "last_commit": "2026-08-15T14:54:28Z",
             "owner": "hyprwm",
             "repo": "hyprsunset",
             "stars": 471
@@ -789,7 +789,7 @@
             "last_commit": "2026-07-17T07:29:44Z",
             "owner": "elkowar",
             "repo": "eww",
-            "stars": 12608
+            "stars": 12611
           }
         },
         {
@@ -800,10 +800,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T12:24:41Z",
+            "last_commit": "2026-08-14T21:34:07Z",
             "owner": "Alexays",
             "repo": "Waybar",
-            "stars": 11789
+            "stars": 11793
           }
         },
         {
@@ -845,7 +845,7 @@
             "last_commit": "2026-08-01T07:35:28Z",
             "owner": "Fabric-Development",
             "repo": "fabric",
-            "stars": 1354
+            "stars": 1353
           }
         },
         {
@@ -898,7 +898,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:08:41Z",
+            "last_commit": "2026-08-14T21:43:41Z",
             "owner": "ignis-sh",
             "repo": "ignis",
             "stars": 677
@@ -915,7 +915,7 @@
             "last_commit": "2026-08-09T03:03:19Z",
             "owner": "enhaoswen",
             "repo": "Tide-island",
-            "stars": 558
+            "stars": 570
           }
         },
         {
@@ -1052,7 +1052,7 @@
             "last_commit": "2026-06-30T17:52:58Z",
             "owner": "emersion",
             "repo": "mako",
-            "stars": 3221
+            "stars": 3222
           }
         },
         {
@@ -1066,7 +1066,7 @@
             "last_commit": "2026-06-25T15:18:34Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2555
+            "stars": 2557
           }
         },
         {
@@ -1173,10 +1173,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T04:11:50Z",
+            "last_commit": "2026-08-15T17:38:03Z",
             "owner": "wwmm",
             "repo": "easyeffects",
-            "stars": 9943
+            "stars": 9950
           }
         },
         {
@@ -1238,7 +1238,7 @@
             "last_commit": "2026-08-09T16:07:51Z",
             "owner": "davatorium",
             "repo": "rofi",
-            "stars": 16318
+            "stars": 16321
           }
         },
         {
@@ -1249,10 +1249,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T15:32:58Z",
+            "last_commit": "2026-08-15T15:29:36Z",
             "owner": "vicinaehq",
             "repo": "vicinae",
-            "stars": 8907
+            "stars": 8913
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2026-07-23T23:34:24Z",
             "owner": "abenz1267",
             "repo": "walker",
-            "stars": 2979
+            "stars": 2982
           }
         },
         {
@@ -1308,7 +1308,7 @@
             "last_commit": "2026-08-14T08:13:07Z",
             "owner": "anyrun-org",
             "repo": "anyrun",
-            "stars": 1287
+            "stars": 1288
           }
         },
         {
@@ -1412,7 +1412,7 @@
             "last_commit": "2026-07-25T18:55:07Z",
             "owner": "GhostNaN",
             "repo": "mpvpaper",
-            "stars": 1570
+            "stars": 1571
           }
         },
         {
@@ -1440,7 +1440,7 @@
             "last_commit": "2026-06-10T09:40:16Z",
             "owner": "anufrievroman",
             "repo": "waypaper",
-            "stars": 1044
+            "stars": 1048
           }
         },
         {
@@ -1454,7 +1454,7 @@
             "last_commit": "2026-05-25T08:00:23Z",
             "owner": "swaywm",
             "repo": "swaybg",
-            "stars": 807
+            "stars": 808
           }
         },
         {
@@ -1505,7 +1505,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T11:07:37Z",
+            "last_commit": "2026-08-15T14:05:09Z",
             "owner": "max-baz",
             "repo": "wluma",
             "stars": 932
@@ -1623,7 +1623,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T16:57:59Z",
+            "last_commit": "2026-08-15T03:19:09Z",
             "owner": "H3rmt",
             "repo": "hyprshell",
             "stars": 586
@@ -1741,7 +1741,7 @@
             "last_commit": "2026-08-12T20:43:19Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30622
+            "stars": 30627
           }
         },
         {
@@ -1755,7 +1755,7 @@
             "last_commit": "2026-08-11T05:01:41Z",
             "owner": "Satty-org",
             "repo": "Satty",
-            "stars": 2315
+            "stars": 2317
           }
         },
         {
@@ -1783,7 +1783,7 @@
             "last_commit": "2024-07-29T13:54:51Z",
             "owner": "Gustash",
             "repo": "Hyprshot",
-            "stars": 870
+            "stars": 871
           }
         },
         {
@@ -1980,10 +1980,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T18:08:58Z",
+            "last_commit": "2026-08-15T17:55:13Z",
             "owner": "devmobasa",
             "repo": "wayscriber",
-            "stars": 690
+            "stars": 691
           }
         }
       ],
@@ -2200,7 +2200,7 @@
             "last_commit": "2026-08-11T16:23:06Z",
             "owner": "hyprwm",
             "repo": "hyprlock",
-            "stars": 1630
+            "stars": 1631
           }
         },
         {
@@ -2262,7 +2262,7 @@
             "last_commit": "2026-06-08T11:45:44Z",
             "owner": "sentriz",
             "repo": "cliphist",
-            "stars": 1523
+            "stars": 1524
           }
         },
         {
@@ -2307,10 +2307,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-01T16:07:24Z",
+            "last_commit": "2026-08-15T18:44:26Z",
             "owner": "sddm",
             "repo": "sddm",
-            "stars": 2329
+            "stars": 2330
           }
         },
         {
@@ -2321,10 +2321,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T13:33:52Z",
+            "last_commit": "2026-08-14T23:26:21Z",
             "owner": "ubuntu",
             "repo": "lightdm",
-            "stars": 983
+            "stars": 987
           }
         },
         {
@@ -2343,7 +2343,7 @@
                 "last_commit": "2026-08-14T14:12:47Z",
                 "owner": "tuigreet",
                 "repo": "tuigreet",
-                "stars": 1716
+                "stars": 1721
               }
             }
           ]
@@ -2353,7 +2353,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T19:15:39.452Z",
+    "last_updated": "2026-08-15T18:49:23.585Z",
     "original_repository": "hyprland-community/awesome-hyprland",
     "original_repository_sha": "53afd330a1cdf27657e4f8c109899b11aa9086db",
     "enhanced_repository": "enhansome/enhansome-hyprland",
