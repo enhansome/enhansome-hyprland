@@ -333,7 +333,7 @@
             "last_commit": "2026-05-28T12:24:43Z",
             "owner": "KZDKM",
             "repo": "Hyprspace",
-            "stars": 1265
+            "stars": 1266
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2026-06-07T22:34:02Z",
             "owner": "zakk4223",
             "repo": "hyprland-easymotion",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -620,7 +620,7 @@
                 "last_commit": "2026-08-18T16:49:03Z",
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1437
+                "stars": 1438
               }
             },
             {
@@ -635,7 +635,7 @@
                 "last_commit": "2026-08-18T16:49:03Z",
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1437
+                "stars": 1438
               }
             },
             {
@@ -650,7 +650,7 @@
                 "last_commit": "2026-08-18T16:49:03Z",
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1437
+                "stars": 1438
               }
             },
             {
@@ -665,7 +665,7 @@
                 "last_commit": "2026-08-18T16:49:03Z",
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1437
+                "stars": 1438
               }
             }
           ],
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-18T16:49:03Z",
             "owner": "hyprwm",
             "repo": "hyprland-plugins",
-            "stars": 1437
+            "stars": 1438
           },
           "title": "Official plugins"
         },
@@ -693,7 +693,7 @@
                 "archived": false,
                 "id": 633571482,
                 "language": "Python",
-                "last_commit": "2026-08-13T17:13:00Z",
+                "last_commit": "2026-08-22T18:23:28Z",
                 "owner": "hyprland-community",
                 "repo": "pyprland",
                 "stars": 701
@@ -754,7 +754,7 @@
                 "last_commit": "2026-08-11T16:23:06Z",
                 "owner": "hyprwm",
                 "repo": "hyprlock",
-                "stars": 1638
+                "stars": 1641
               }
             },
             {
@@ -799,7 +799,7 @@
                 "last_commit": "2026-08-11T16:29:38Z",
                 "owner": "hyprwm",
                 "repo": "hypridle",
-                "stars": 695
+                "stars": 696
               }
             },
             {
@@ -814,7 +814,7 @@
                 "last_commit": "2026-08-11T16:03:45Z",
                 "owner": "hyprwm",
                 "repo": "hyprcursor",
-                "stars": 568
+                "stars": 569
               }
             },
             {
@@ -829,7 +829,7 @@
                 "last_commit": "2026-08-15T14:54:28Z",
                 "owner": "hyprwm",
                 "repo": "hyprsunset",
-                "stars": 477
+                "stars": 478
               }
             }
           ],
@@ -851,7 +851,7 @@
                 "last_commit": "2026-07-17T07:29:44Z",
                 "owner": "elkowar",
                 "repo": "eww",
-                "stars": 12618
+                "stars": 12619
               }
             },
             {
@@ -866,7 +866,7 @@
                 "last_commit": "2026-08-20T11:41:51Z",
                 "owner": "Alexays",
                 "repo": "Waybar",
-                "stars": 11827
+                "stars": 11836
               }
             },
             {
@@ -896,7 +896,7 @@
                 "last_commit": "2026-08-20T21:28:19Z",
                 "owner": "JakeStanger",
                 "repo": "ironbar",
-                "stars": 1439
+                "stars": 1440
               }
             },
             {
@@ -911,7 +911,7 @@
                 "last_commit": "2026-08-21T10:04:38Z",
                 "owner": "Fabric-Development",
                 "repo": "fabric",
-                "stars": 1355
+                "stars": 1357
               }
             },
             {
@@ -923,10 +923,10 @@
                 "archived": false,
                 "id": 662689471,
                 "language": "Rust",
-                "last_commit": "2026-08-20T20:14:33Z",
+                "last_commit": "2026-08-21T21:06:26Z",
                 "owner": "MalpenZibo",
                 "repo": "ashell",
-                "stars": 1069
+                "stars": 1073
               }
             },
             {
@@ -941,7 +941,7 @@
                 "last_commit": "2026-07-25T19:07:06Z",
                 "owner": "wayle-rs",
                 "repo": "wayle",
-                "stars": 870
+                "stars": 874
               }
             },
             {
@@ -956,7 +956,7 @@
                 "last_commit": "2026-07-09T18:02:21Z",
                 "owner": "nwg-piotr",
                 "repo": "nwg-panel",
-                "stars": 781
+                "stars": 782
               }
             },
             {
@@ -968,10 +968,10 @@
                 "archived": false,
                 "id": 834792716,
                 "language": "Python",
-                "last_commit": "2026-08-18T16:38:49Z",
+                "last_commit": "2026-08-22T15:24:36Z",
                 "owner": "ignis-sh",
                 "repo": "ignis",
-                "stars": 680
+                "stars": 681
               }
             },
             {
@@ -983,10 +983,10 @@
                 "archived": false,
                 "id": 1184339966,
                 "language": "QML",
-                "last_commit": "2026-08-21T15:50:20Z",
+                "last_commit": "2026-08-22T11:44:06Z",
                 "owner": "enhaoswen",
                 "repo": "Tide-island",
-                "stars": 609
+                "stars": 614
               }
             },
             {
@@ -1031,7 +1031,7 @@
                 "last_commit": "2026-03-13T12:08:11Z",
                 "owner": "hyprland-community",
                 "repo": "hyprland-autoname-workspaces",
-                "stars": 254
+                "stars": 255
               }
             },
             {
@@ -1106,7 +1106,7 @@
                 "last_commit": "2025-10-31T01:51:28Z",
                 "owner": "System64fumo",
                 "repo": "sysshell",
-                "stars": 86
+                "stars": 85
               }
             }
           ],
@@ -1212,7 +1212,7 @@
                     "last_commit": "2025-10-08T08:09:29Z",
                     "owner": "heyjuvi",
                     "repo": "avizo",
-                    "stars": 618
+                    "stars": 619
                   }
                 },
                 {
@@ -1261,10 +1261,10 @@
                     "archived": false,
                     "id": 85591067,
                     "language": "HTML",
-                    "last_commit": "2026-08-18T21:30:33Z",
+                    "last_commit": "2026-08-22T16:50:45Z",
                     "owner": "wwmm",
                     "repo": "easyeffects",
-                    "stars": 10021
+                    "stars": 10022
                   }
                 },
                 {
@@ -1336,7 +1336,7 @@
                 "last_commit": "2026-08-09T16:07:51Z",
                 "owner": "davatorium",
                 "repo": "rofi",
-                "stars": 16342
+                "stars": 16343
               }
             },
             {
@@ -1351,7 +1351,7 @@
                 "last_commit": "2026-08-21T18:45:51Z",
                 "owner": "vicinaehq",
                 "repo": "vicinae",
-                "stars": 9002
+                "stars": 9024
               }
             },
             {
@@ -1366,7 +1366,7 @@
                 "last_commit": "2026-07-23T23:34:24Z",
                 "owner": "abenz1267",
                 "repo": "walker",
-                "stars": 2992
+                "stars": 2996
               }
             },
             {
@@ -1381,7 +1381,7 @@
                 "last_commit": "2025-08-29T08:06:03Z",
                 "owner": "Cloudef",
                 "repo": "bemenu",
-                "stars": 1484
+                "stars": 1485
               }
             },
             {
@@ -1396,7 +1396,7 @@
                 "last_commit": "2024-12-30T15:19:27Z",
                 "owner": "philj56",
                 "repo": "tofi",
-                "stars": 1396
+                "stars": 1397
               }
             },
             {
@@ -1523,7 +1523,7 @@
                 "last_commit": "2026-07-25T18:55:07Z",
                 "owner": "GhostNaN",
                 "repo": "mpvpaper",
-                "stars": 1574
+                "stars": 1575
               }
             },
             {
@@ -1553,7 +1553,7 @@
                 "last_commit": "2026-06-10T09:40:16Z",
                 "owner": "anufrievroman",
                 "repo": "waypaper",
-                "stars": 1053
+                "stars": 1054
               }
             },
             {
@@ -1568,7 +1568,7 @@
                 "last_commit": "2026-05-25T08:00:23Z",
                 "owner": "swaywm",
                 "repo": "swaybg",
-                "stars": 811
+                "stars": 812
               }
             },
             {
@@ -1740,7 +1740,7 @@
                 "last_commit": "2026-06-01T12:12:00Z",
                 "owner": "nwg-piotr",
                 "repo": "nwg-displays",
-                "stars": 1081
+                "stars": 1082
               }
             },
             {
@@ -1755,7 +1755,7 @@
                 "last_commit": "2026-08-15T14:54:28Z",
                 "owner": "hyprwm",
                 "repo": "hyprsunset",
-                "stars": 477
+                "stars": 478
               }
             },
             {
@@ -1918,10 +1918,10 @@
                     "archived": false,
                     "id": 90902132,
                     "language": "C++",
-                    "last_commit": "2026-08-18T20:50:55Z",
+                    "last_commit": "2026-08-22T15:44:25Z",
                     "owner": "flameshot-org",
                     "repo": "flameshot",
-                    "stars": 30660
+                    "stars": 30668
                   }
                 },
                 {
@@ -1936,7 +1936,7 @@
                     "last_commit": "2026-08-18T01:23:43Z",
                     "owner": "Satty-org",
                     "repo": "Satty",
-                    "stars": 2331
+                    "stars": 2336
                   }
                 },
                 {
@@ -2033,7 +2033,7 @@
                     "last_commit": "2026-05-10T11:04:31Z",
                     "owner": "emersion",
                     "repo": "slurp",
-                    "stars": 1273
+                    "stars": 1274
                   }
                 },
                 {
@@ -2060,7 +2060,7 @@
                     "archived": false,
                     "id": 767371396,
                     "language": "Rust",
-                    "last_commit": "2026-01-17T12:56:16Z",
+                    "last_commit": "2026-08-22T12:53:01Z",
                     "owner": "Jappie3",
                     "repo": "wayfreeze",
                     "stars": 108
@@ -2130,7 +2130,7 @@
                     "last_commit": "2026-04-12T06:03:50Z",
                     "owner": "ammen99",
                     "repo": "wf-recorder",
-                    "stars": 1305
+                    "stars": 1306
                   }
                 },
                 {
@@ -2179,7 +2179,7 @@
                     "archived": false,
                     "id": 1075699186,
                     "language": "Rust",
-                    "last_commit": "2026-08-21T10:49:00Z",
+                    "last_commit": "2026-08-22T18:04:33Z",
                     "owner": "devmobasa",
                     "repo": "wayscriber",
                     "stars": 710
@@ -2206,10 +2206,10 @@
                 "archived": false,
                 "id": 177397013,
                 "language": "C++",
-                "last_commit": "2026-08-14T16:09:45Z",
+                "last_commit": "2026-08-22T18:08:42Z",
                 "owner": "houmain",
                 "repo": "keymapper",
-                "stars": 1133
+                "stars": 1134
               }
             },
             {
@@ -2271,7 +2271,7 @@
                     "last_commit": "2026-07-24T21:16:31Z",
                     "owner": "jjsullivan5196",
                     "repo": "wvkbd",
-                    "stars": 455
+                    "stars": 456
                   }
                 },
                 {
@@ -2330,7 +2330,7 @@
                     "last_commit": "2026-07-25T05:33:48Z",
                     "owner": "AMNatty",
                     "repo": "wleave",
-                    "stars": 340
+                    "stars": 343
                   }
                 },
                 {
@@ -2397,7 +2397,7 @@
                     "last_commit": "2026-08-11T16:29:38Z",
                     "owner": "hyprwm",
                     "repo": "hypridle",
-                    "stars": 695
+                    "stars": 696
                   }
                 }
               ],
@@ -2419,7 +2419,7 @@
                     "last_commit": "2026-08-11T16:23:06Z",
                     "owner": "hyprwm",
                     "repo": "hyprlock",
-                    "stars": 1638
+                    "stars": 1641
                   }
                 },
                 {
@@ -2434,7 +2434,7 @@
                     "last_commit": "2026-07-09T15:59:31Z",
                     "owner": "swaywm",
                     "repo": "swaylock",
-                    "stars": 1214
+                    "stars": 1215
                   }
                 },
                 {
@@ -2540,7 +2540,7 @@
                         "last_commit": "2026-08-19T10:45:49Z",
                         "owner": "sddm",
                         "repo": "sddm",
-                        "stars": 2336
+                        "stars": 2337
                       }
                     },
                     {
@@ -2600,7 +2600,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:58:19.357Z",
+    "last_updated": "2026-08-22T18:50:06.060Z",
     "original_repository": "hyprland-community/awesome-hyprland",
     "original_repository_id": 576150049,
     "original_repository_sha": "53afd330a1cdf27657e4f8c109899b11aa9086db",
