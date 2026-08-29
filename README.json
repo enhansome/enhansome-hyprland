@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial rust wrapper for hyprland's IPC [maintainers=@yavko]",
+            "homepage": null,
             "id": 519049194,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-26T01:10:39Z",
+            "open_issues": 20,
             "owner": "hyprland-community",
             "repo": "hyprland-rs",
-            "stars": 407
+            "stars": 407,
+            "topics": [
+              "hyprland",
+              "hyprland-ipc",
+              "ipc",
+              "rust",
+              "socket"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -26,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Community scripts and utilities for Hypr projects",
+            "homepage": null,
             "id": 516027181,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-21T08:33:55Z",
+            "open_issues": 16,
             "owner": "hyprwm",
             "repo": "contrib",
-            "stars": 402
+            "stars": 402,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -42,12 +58,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An unoffical async python wrapper for hyprland's IPC [maintainer=@flick0]",
+            "homepage": null,
             "id": 580761857,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-03T08:57:09Z",
+            "open_issues": 2,
             "owner": "hyprland-community",
             "repo": "hyprland-py",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -58,12 +79,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings for Hyprland.",
+            "homepage": "https://hyprpy.lobbes.dev",
             "id": 676771021,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-25T12:48:34Z",
+            "open_issues": 3,
             "owner": "ulinja",
             "repo": "hyprpy",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "hyprland",
+              "hyprland-bindings",
+              "linux",
+              "linux-desktop",
+              "python",
+              "python-library",
+              "wayland",
+              "wayland-compositor"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -74,12 +109,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial Go wrapper for Hyprland's IPC.",
+            "homepage": null,
             "id": 832170197,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-09-30T17:59:20Z",
+            "open_issues": 1,
             "owner": "thiagokokada",
             "repo": "hyprland-go",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "go",
+              "hyprland",
+              "hyprland-ipc",
+              "ipc",
+              "socket"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -90,12 +136,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyprland ipc client and event receiver",
+            "homepage": null,
             "id": 558641637,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-07T13:23:02Z",
+            "open_issues": 0,
             "owner": "labi-le",
             "repo": "hyprland-ipc-client",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "golang",
+              "hypr",
+              "hyprland"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -106,12 +161,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Invoke shell functions in response to Hyprland socket2 events",
+            "homepage": null,
             "id": 574748747,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-10-15T10:05:49Z",
+            "open_issues": 0,
             "owner": "vilari-mickopf",
             "repo": "hyprevents",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "events",
+              "hyprland",
+              "socket2",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -122,12 +187,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial Nim wrapper for Hyprland's IPC",
+            "homepage": null,
             "id": 695857325,
             "language": "Nim",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-11T04:48:06Z",
+            "open_issues": 0,
             "owner": "xTrayambak",
             "repo": "hyprland_ipc",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "hyprland",
+              "hyprland-ipc",
+              "ipc",
+              "nim",
+              "rice",
+              "socket"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -138,12 +215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://hyprlua.cacari.co",
             "id": 869720674,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-08-24T11:35:13Z",
+            "open_issues": 3,
             "owner": "cacarico",
             "repo": "Hyprlua",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -154,12 +236,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An unofficial wrapper for Hyprland's IPC written in Dart",
+            "homepage": null,
             "id": 567506223,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2025-06-02T17:47:55Z",
+            "open_issues": 0,
             "owner": "FlafyDev",
             "repo": "hyprland_ipc",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "hyprland",
+              "hyprland-ipc"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         }
@@ -176,12 +266,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A LSP server for Hyprland config files [maintainer=@gwennlbh]",
+            "homepage": "https://gwen.works/hyprls",
             "id": 791553840,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-20T09:02:53Z",
+            "open_issues": 18,
             "owner": "hyprland-community",
             "repo": "hyprls",
-            "stars": 329
+            "stars": 329,
+            "topics": [
+              "hyprland",
+              "hyprland-config",
+              "language-server",
+              "language-server-protocol",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -192,12 +293,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hyprlang grammar for tree-sitter",
+            "homepage": null,
             "id": 680280370,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-12T05:52:46Z",
+            "open_issues": 1,
             "owner": "tree-sitter-grammars",
             "repo": "tree-sitter-hyprlang",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "hyprlang",
+              "parser",
+              "tree-sitter"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -208,12 +318,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hyprland/Hyprpaper/Hypr configuration file parser [maintainer=@yavko]",
+            "homepage": null,
             "id": 590736298,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2023-02-14T00:28:52Z",
+            "open_issues": 2,
             "owner": "hyprland-community",
             "repo": "hyprparse",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "config",
+              "configuration",
+              "hypr",
+              "hyprland",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -224,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A major mode for editing hyprland configuration files in emacs",
+            "homepage": null,
             "id": 893581029,
             "language": "Emacs Lisp",
+            "license": "MIT",
             "last_commit": "2024-12-25T14:14:49Z",
+            "open_issues": 2,
             "owner": "Nathan-Melaku",
             "repo": "hyprlang-ts-mode",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         }
@@ -246,12 +372,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A configuration UI for hyprland.conf",
+            "homepage": null,
             "id": 1089071611,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-14T03:04:36Z",
+            "open_issues": 2,
             "owner": "acropolis914",
             "repo": "hyprsettings",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "hyprland",
+              "hyprland-config"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -262,12 +396,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight graphical keybind manager for Hyprland made with Rust & GTK4.",
+            "homepage": "https://aur.archlinux.org/packages/hyprkcs-git",
             "id": 1129915277,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-09T14:26:40Z",
+            "open_issues": 5,
             "owner": "kosa12",
             "repo": "hyprKCS",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "cargo",
+              "gtk4",
+              "gtk4-rs",
+              "gui-application",
+              "hyprland",
+              "libadwaita",
+              "libadwaita-rs",
+              "linux",
+              "nix",
+              "rust",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -278,12 +429,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a gui hyprland configurator [maintainer=@tokyob0t]",
+            "homepage": null,
             "id": 583332897,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-28T18:33:39Z",
+            "open_issues": 5,
             "owner": "hyprland-community",
             "repo": "hyprset",
-            "stars": 141
+            "stars": 141,
+            "topics": [
+              "config",
+              "gui",
+              "hyprland",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -294,12 +455,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight Hyprland configuration editor. In your browser!",
+            "homepage": "http://ufuayk.github.io/hyprconf-gen",
             "id": 959944463,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-28T10:09:09Z",
+            "open_issues": 0,
             "owner": "ufuayk",
             "repo": "hyprconf-gen",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "arch",
+              "config",
+              "hypr",
+              "hyprland",
+              "hyprland-config",
+              "hyprland-dotfiles",
+              "hyprland-rice",
+              "hyprlock",
+              "nix",
+              "waybar"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -310,12 +487,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "terminal UI for managing the Hyprland config.",
+            "homepage": null,
             "id": 1173839453,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-10T18:54:08Z",
+            "open_issues": 0,
             "owner": "vlensys",
             "repo": "hyprbole",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "hyprland",
+              "linux"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -326,12 +511,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A universal configure(er) designed for hyprland conf files.",
+            "homepage": "https://dsksnkz.github.io/UniConf/",
             "id": 1223875565,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-09T18:19:02Z",
+            "open_issues": 0,
             "owner": "dsksnkz",
             "repo": "UniConf",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         }
@@ -348,12 +538,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Workspace overview plugin for Hyprland",
+            "homepage": null,
             "id": 778123330,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-28T12:24:43Z",
+            "open_issues": 86,
             "owner": "KZDKM",
             "repo": "Hyprspace",
-            "stars": 1271
+            "stars": 1272,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -364,12 +559,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyprland plugin for an i3 / sway like manual tiling layout",
+            "homepage": null,
             "id": 625666619,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T05:12:44Z",
+            "open_issues": 94,
             "owner": "outfoxxed",
             "repo": "hy3",
-            "stars": 1169
+            "stars": 1169,
+            "topics": [
+              "hyprland",
+              "hyprland-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -380,12 +583,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small lua package for Hyprland to provide awesome-like workspace behavior",
+            "homepage": null,
             "id": 607422122,
             "language": "Lua",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-23T12:46:57Z",
+            "open_issues": 6,
             "owner": "zjeffer",
             "repo": "split-monitor-workspaces",
-            "stars": 788
+            "stars": 788,
+            "topics": [
+              "awesomewm",
+              "bspwm",
+              "dwm",
+              "hyprland",
+              "hyprland-plugin",
+              "lua",
+              "workspace-management"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -396,12 +612,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a plugin to make your hyprland cursor more realistic, also adds shake to find",
+            "homepage": null,
             "id": 818303428,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-06T09:27:11Z",
+            "open_issues": 20,
             "owner": "VirtCode",
             "repo": "hypr-dynamic-cursors",
-            "stars": 714
+            "stars": 714,
+            "topics": [
+              "cursor",
+              "hyprland",
+              "hyprland-plugin",
+              "shake"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -412,12 +638,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hyprland plugin for touch screen gestures",
+            "homepage": null,
             "id": 611337444,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-23T01:00:43Z",
+            "open_issues": 20,
             "owner": "horriblename",
             "repo": "hyprgrass",
-            "stars": 589
+            "stars": 589,
+            "topics": [
+              "hyprland",
+              "hyprland-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -428,12 +662,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Hyprland layout plugin providing a scrolling layout like PaperWM",
+            "homepage": null,
             "id": 779845393,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-04-22T17:48:40Z",
+            "open_issues": 10,
             "owner": "dawsers",
             "repo": "hyprscroller",
-            "stars": 429
+            "stars": 429,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -444,12 +683,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Powerful workspace management plugin, packed with features",
+            "homepage": null,
             "id": 906503041,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-21T02:28:02Z",
+            "open_issues": 26,
             "owner": "raybbian",
             "repo": "hyprtasking",
-            "stars": 367
+            "stars": 367,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -460,12 +704,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for the Hyprland compositor, implementing virtual-desktop functionality.",
+            "homepage": null,
             "id": 637418043,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-20T08:18:28Z",
+            "open_issues": 17,
             "owner": "levnikmyskin",
             "repo": "hyprland-virtual-desktops",
-            "stars": 319
+            "stars": 319,
+            "topics": [
+              "hyprland",
+              "hyprland-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -476,12 +728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easymotion, for hyprland",
+            "homepage": null,
             "id": 782762902,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-07T22:34:02Z",
+            "open_issues": 17,
             "owner": "zakk4223",
             "repo": "hyprland-easymotion",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -492,12 +749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a focus animation plugin for Hyprland inspired by Flashfocus",
+            "homepage": null,
             "id": 762349570,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-10-05T22:55:56Z",
+            "open_issues": 13,
             "owner": "pyt0xic",
             "repo": "hyprfocus",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -508,12 +770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyprland plugin to apply chroma key algorithm to make all windows translucent without affecting readability",
+            "homepage": null,
             "id": 746411407,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-08-09T15:28:34Z",
+            "open_issues": 1,
             "owner": "alexhulbert",
             "repo": "Hyprchroma",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -524,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyprland Plugin to customize Shaders of specific Windows!",
+            "homepage": null,
             "id": 675356229,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-17T12:16:26Z",
+            "open_issues": 4,
             "owner": "micha4w",
             "repo": "Hypr-DarkWindow",
-            "stars": 134
+            "stars": 134,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -540,12 +812,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyprland plugin for N-stack tiling layout",
+            "homepage": null,
             "id": 609728023,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-29T16:05:02Z",
+            "open_issues": 18,
             "owner": "zakk4223",
             "repo": "hyprNStack",
-            "stars": 115
+            "stars": 115,
+            "topics": [
+              "hyprland",
+              "hyprland-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -556,12 +836,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "River layouts for Hyprland",
+            "homepage": null,
             "id": 613365268,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-05-09T03:45:31Z",
+            "open_issues": 4,
             "owner": "zakk4223",
             "repo": "hyprRiver",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "hyprland",
+              "hyprland-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -572,12 +860,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Pomodoro timer plugin for Hyprland",
+            "homepage": null,
             "id": 1043428743,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-03-12T01:09:44Z",
+            "open_issues": 2,
             "owner": "0xFMD",
             "repo": "hyprmodoro",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "hyprland",
+              "hyprland-plugin",
+              "pomodoro",
+              "pomodoro-timer"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -588,12 +886,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyprland plugin that overrides groupping behavior on dwindle layout to automatically group child nodes on creation",
+            "homepage": null,
             "id": 621986398,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-10-29T18:19:42Z",
+            "open_issues": 0,
             "owner": "ItsDrike",
             "repo": "hyprland-dwindle-autogroup",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "hyprland",
+              "hyprland-plugin"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -604,12 +910,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyprland plugin for temporarily toggling top layer plugins above fullscreen windows.",
+            "homepage": null,
             "id": 1042517677,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-01T14:52:35Z",
+            "open_issues": 0,
             "owner": "SsubezZ",
             "repo": "hyprtoplr",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -620,12 +931,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hyprland overview mode plugin,a new tile window workflow ",
+            "homepage": null,
             "id": 1127004810,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-04-24T08:08:52Z",
+            "open_issues": 0,
             "owner": "ernestoCruz05",
             "repo": "hycov",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -636,12 +952,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Per-monitor brightness, contrast, and gamma control for Hyprland — with a GTK4 GUI",
+            "homepage": null,
             "id": 1237962383,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-21T01:38:06Z",
+            "open_issues": 0,
             "owner": "surprizeattackxx-dotcom",
             "repo": "hypr-gamma",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "brightness",
+              "color-management",
+              "cpp",
+              "gamma",
+              "gtk4",
+              "hyprland",
+              "hyprland-plugin",
+              "wayland"
+            ]
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
         },
@@ -654,12 +984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official plugins for Hyprland",
+                "homepage": null,
                 "id": 607191802,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T22:33:02Z",
+                "open_issues": 166,
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1442
+                "stars": 1442,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -670,12 +1005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official plugins for Hyprland",
+                "homepage": null,
                 "id": 607191802,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T22:33:02Z",
+                "open_issues": 166,
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1442
+                "stars": 1442,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -686,12 +1026,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official plugins for Hyprland",
+                "homepage": null,
                 "id": 607191802,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T22:33:02Z",
+                "open_issues": 166,
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1442
+                "stars": 1442,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -702,12 +1047,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official plugins for Hyprland",
+                "homepage": null,
                 "id": 607191802,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-24T22:33:02Z",
+                "open_issues": 166,
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1442
+                "stars": 1442,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             }
@@ -716,12 +1066,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Official plugins for Hyprland",
+            "homepage": null,
             "id": 607191802,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-24T22:33:02Z",
+            "open_issues": 166,
             "owner": "hyprwm",
             "repo": "hyprland-plugins",
-            "stars": 1442
+            "stars": 1442,
+            "topics": []
           },
           "title": "Official plugins",
           "first_seen": "2026-08-29T01:46:00.592Z"
@@ -735,12 +1090,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scratchpads & many goodies for Hyprland & others [maintainer=@fdev31]",
+                "homepage": null,
                 "id": 633571482,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-22T18:23:28Z",
+                "open_issues": 2,
                 "owner": "hyprland-community",
                 "repo": "pyprland",
-                "stars": 702
+                "stars": 702,
+                "topics": [
+                  "asyncio",
+                  "color-scheme",
+                  "desktop",
+                  "extension",
+                  "eyecandy",
+                  "hacktoberfest",
+                  "hyprland",
+                  "hyprland-ipc",
+                  "menus",
+                  "multiscreen",
+                  "productivity",
+                  "python",
+                  "quality-of-life",
+                  "scratchpad",
+                  "scriptable",
+                  "shortcuts",
+                  "wallpaper-changer"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -751,12 +1129,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infinite canvas for Hyprland — pan floating windows like an infinite desktop",
+                "homepage": null,
                 "id": 1240222785,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T21:15:35Z",
+                "open_issues": 1,
                 "owner": "zyrophix",
                 "repo": "hyprland-canvas",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "hyprland",
+                  "infinite-desktop",
+                  "python",
+                  "tiling-window-manager",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -767,12 +1156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rewrite hdrop using python",
+                "homepage": null,
                 "id": 913387408,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-13T04:10:59Z",
+                "open_issues": 0,
                 "owner": "RhenCloud",
                 "repo": "hdrop_python",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             }
@@ -796,12 +1190,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyprland's GPU-accelerated screen locking utility",
+                "homepage": null,
                 "id": 759446562,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-11T16:23:06Z",
+                "open_issues": 189,
                 "owner": "hyprwm",
                 "repo": "hyprlock",
-                "stars": 1643
+                "stars": 1643,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -812,12 +1211,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyprpaper is a wayland wallpaper utility with IPC controls.",
+                "homepage": "https://wiki.hyprland.org/Hypr-Ecosystem/hyprpaper/",
                 "id": 509550539,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-13T18:14:10Z",
+                "open_issues": 52,
                 "owner": "hyprwm",
                 "repo": "hyprpaper",
-                "stars": 1345
+                "stars": 1345,
+                "topics": [
+                  "cpp20",
+                  "wallpaper",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -828,12 +1237,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A wlroots-compatible Wayland color picker that does not suck.",
+                "homepage": null,
                 "id": 531992847,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-20T11:57:50Z",
+                "open_issues": 24,
                 "owner": "hyprwm",
                 "repo": "hyprpicker",
-                "stars": 1127
+                "stars": 1127,
+                "topics": [
+                  "color",
+                  "picker",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -844,12 +1263,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyprland's idle daemon",
+                "homepage": null,
                 "id": 759004855,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-11T16:29:38Z",
+                "open_issues": 43,
                 "owner": "hyprwm",
                 "repo": "hypridle",
-                "stars": 696
+                "stars": 696,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -860,12 +1284,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The hyprland cursor format, library and utilities.",
+                "homepage": "https://standards.hyprland.org/hyprcursor/",
                 "id": 768260024,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-11T16:03:45Z",
+                "open_issues": 10,
                 "owner": "hyprwm",
                 "repo": "hyprcursor",
-                "stars": 568
+                "stars": 568,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -876,12 +1305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An application to enable a blue-light filter on Hyprland",
+                "homepage": null,
                 "id": 869208124,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-15T14:54:28Z",
+                "open_issues": 17,
                 "owner": "hyprwm",
                 "repo": "hyprsunset",
-                "stars": 481
+                "stars": 481,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             }
@@ -899,12 +1333,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ElKowars wacky widgets",
+                "homepage": "https://elkowar.github.io/eww",
                 "id": 296943592,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-17T07:29:44Z",
+                "open_issues": 379,
                 "owner": "elkowar",
                 "repo": "eww",
-                "stars": 12637
+                "stars": 12637,
+                "topics": [
+                  "desktop",
+                  "eww",
+                  "gtk",
+                  "gtk-rs",
+                  "gtk3",
+                  "hacktoberfest",
+                  "linux",
+                  "rust",
+                  "rust-lang",
+                  "unixporn",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -915,12 +1366,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:",
+                "homepage": null,
                 "id": 144071425,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:37:29Z",
+                "open_issues": 713,
                 "owner": "Alexays",
                 "repo": "Waybar",
-                "stars": 11870
+                "stars": 11870,
+                "topics": [
+                  "bar",
+                  "gtk",
+                  "i3status",
+                  "statusbar",
+                  "sway",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -931,12 +1395,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Bar/Panel for Hyprland with extensive customizability.",
+                "homepage": null,
                 "id": 812554671,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-23T05:48:43Z",
+                "open_issues": 226,
                 "owner": "Jas-SinghFSU",
                 "repo": "HyprPanel",
-                "stars": 2199
+                "stars": 2199,
+                "topics": [
+                  "ags",
+                  "astal",
+                  "catppuccin",
+                  "dracula",
+                  "everforest",
+                  "gjs",
+                  "gruvbox",
+                  "gtk3",
+                  "hyprland",
+                  "linux",
+                  "nord",
+                  "onedark",
+                  "rose-pine",
+                  "setup",
+                  "shell",
+                  "tokyonight",
+                  "unix",
+                  "unixporn"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -947,12 +1435,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Customisable Wayland GTK4 bar written in Rust.",
+                "homepage": "https://crates.io/crates/ironbar",
                 "id": 524500186,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:58:46Z",
+                "open_issues": 121,
                 "owner": "JakeStanger",
                 "repo": "ironbar",
-                "stars": 1445
+                "stars": 1445,
+                "topics": [
+                  "bar",
+                  "desktop",
+                  "gtk",
+                  "gtk-layer-shell",
+                  "gtk4",
+                  "hyprland",
+                  "ironbar",
+                  "niri",
+                  "rust",
+                  "sway",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -963,12 +1469,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The next-generation framework for building desktop widgets using Python",
+                "homepage": "https://wiki.ffpy.org",
                 "id": 743844567,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T17:10:14Z",
+                "open_issues": 9,
                 "owner": "Fabric-Development",
                 "repo": "fabric",
-                "stars": 1365
+                "stars": 1365,
+                "topics": [
+                  "desktop-widgets",
+                  "gtk",
+                  "gtk3",
+                  "status-bar",
+                  "wayland",
+                  "widget",
+                  "widgets",
+                  "x11"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -979,12 +1499,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A ready to go status bar for Wayland compositors",
+                "homepage": "https://malpenzibo.github.io/ashell/",
                 "id": 662689471,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T15:03:13Z",
+                "open_issues": 96,
                 "owner": "MalpenZibo",
                 "repo": "ashell",
-                "stars": 1080
+                "stars": 1080,
+                "topics": [
+                  "bar",
+                  "hyprland",
+                  "iced-rs",
+                  "mangowc",
+                  "niri",
+                  "rice",
+                  "statusbar",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -995,12 +1530,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wayland Elements -  A compositor agnostic shell with extensive customization",
+                "homepage": "https://wayle.app",
                 "id": 1002660578,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-25T19:07:06Z",
+                "open_issues": 155,
                 "owner": "wayle-rs",
                 "repo": "wayle",
-                "stars": 894
+                "stars": 894,
+                "topics": [
+                  "bar",
+                  "catppuccin",
+                  "desktop",
+                  "desktop-shell",
+                  "gtk4",
+                  "hyprland",
+                  "linux",
+                  "notifications",
+                  "osd",
+                  "panel",
+                  "relm4",
+                  "rust",
+                  "shell",
+                  "status-bar",
+                  "theme",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1011,12 +1568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GTK3-based panel for sway and Hyprland Wayland compositors",
+                "homepage": null,
                 "id": 329143383,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T20:55:28Z",
+                "open_issues": 39,
                 "owner": "nwg-piotr",
                 "repo": "nwg-panel",
-                "stars": 784
+                "stars": 784,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1027,12 +1589,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A widget framework for building desktop shells, written and configurable in Python",
+                "homepage": "https://ignis-sh.github.io/ignis/",
                 "id": 834792716,
                 "language": "Python",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-28T15:44:43Z",
+                "open_issues": 66,
                 "owner": "ignis-sh",
                 "repo": "ignis",
-                "stars": 684
+                "stars": 684,
+                "topics": [
+                  "desktop-environment",
+                  "gtk4",
+                  "ignis",
+                  "linux-desktop",
+                  "python",
+                  "unixporn",
+                  "wayland",
+                  "widget"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1043,12 +1619,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tide Island is a smooth, lightweight, and flexible interactive island for Hyprland.",
+                "homepage": null,
                 "id": 1184339966,
                 "language": "QML",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T15:26:10Z",
+                "open_issues": 2,
                 "owner": "enhaoswen",
                 "repo": "Tide-island",
-                "stars": 637
+                "stars": 637,
+                "topics": [
+                  "archlinux",
+                  "bar",
+                  "dynamic-island",
+                  "hyprland",
+                  "linux",
+                  "niri",
+                  "quickshell",
+                  "rice",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1059,12 +1650,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blazingly fast status bar written with GTK",
+                "homepage": null,
                 "id": 588622212,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-12-17T17:38:31Z",
+                "open_issues": 38,
                 "owner": "scorpion-26",
                 "repo": "gBar",
-                "stars": 538
+                "stars": 538,
+                "topics": [
+                  "bar",
+                  "cpp",
+                  "gtk3",
+                  "linux",
+                  "status-bar",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1075,12 +1678,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GTK3-based dock for Hyprland",
+                "homepage": null,
                 "id": 630227974,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-19T23:33:51Z",
+                "open_issues": 29,
                 "owner": "nwg-piotr",
                 "repo": "nwg-dock-hyprland",
-                "stars": 448
+                "stars": 448,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1091,12 +1699,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyprland autoname workspaces 🪟 [maintainers=@cyrinux,@maximbaz, @shivros] ",
+                "homepage": null,
                 "id": 586646957,
                 "language": "Rust",
+                "license": "ISC",
                 "last_commit": "2026-03-13T12:08:11Z",
+                "open_issues": 8,
                 "owner": "hyprland-community",
                 "repo": "hyprland-autoname-workspaces",
-                "stars": 255
+                "stars": 255,
+                "topics": [
+                  "desktop",
+                  "desktop-application",
+                  "eww",
+                  "hyprland",
+                  "hyrpland",
+                  "icons",
+                  "linux",
+                  "rust",
+                  "waybar",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1107,12 +1731,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A status bar focused on wlroots Wayland compositors",
+                "homepage": null,
                 "id": 525953339,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-04-23T14:23:29Z",
+                "open_issues": 12,
                 "owner": "vars1ty",
                 "repo": "HybridBar",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "gtk",
+                  "gtk-layer-shell",
+                  "gtk3",
+                  "linux",
+                  "rust",
+                  "status-bar",
+                  "wayland",
+                  "widgets"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1123,12 +1761,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive Dock Panel for Hyprland",
+                "homepage": null,
                 "id": 803836942,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-14T22:51:39Z",
+                "open_issues": 7,
                 "owner": "lotos-linux",
                 "repo": "hypr-dock",
-                "stars": 197
+                "stars": 197,
+                "topics": [
+                  "compositor",
+                  "desktop-environment",
+                  "dock",
+                  "dock-menu",
+                  "dock-panel",
+                  "golang",
+                  "gtk-layer-shell",
+                  "gtk3",
+                  "gui",
+                  "hackable",
+                  "hyprctl",
+                  "launcher",
+                  "launcher-application",
+                  "linux",
+                  "panel",
+                  "productivity",
+                  "ricing",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1139,12 +1801,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An opinionated panel/shell for the Hyprland compositor.",
+                "homepage": null,
                 "id": 758736696,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-23T10:57:49Z",
+                "open_issues": 0,
                 "owner": "pdf",
                 "repo": "hyprpanel",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "desktop-environment",
+                  "desktop-notifications",
+                  "hyprland",
+                  "hyprland-bar"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1155,12 +1827,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modular status bar for wayland",
+                "homepage": null,
                 "id": 810462404,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T17:31:23Z",
+                "open_issues": 0,
                 "owner": "System64fumo",
                 "repo": "sysbar",
-                "stars": 97
+                "stars": 97,
+                "topics": [
+                  "gtk4",
+                  "gtkmm4",
+                  "status-bar",
+                  "wayland",
+                  "wayland-bar"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1171,12 +1854,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic shell for wayland",
+                "homepage": null,
                 "id": 829296896,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2025-10-31T01:51:28Z",
+                "open_issues": 0,
                 "owner": "System64fumo",
                 "repo": "sysshell",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "application-launcher",
+                  "dock",
+                  "gtk4",
+                  "gtkmm4",
+                  "hud",
+                  "shell",
+                  "systembar",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             }
@@ -1196,12 +1893,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A lightweight Wayland notification daemon",
+                    "homepage": null,
                     "id": 130588871,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-06-30T17:52:58Z",
+                    "open_issues": 135,
                     "owner": "emersion",
                     "repo": "mako",
-                    "stars": 3235
+                    "stars": 3235,
+                    "topics": [
+                      "cli",
+                      "notifications",
+                      "swaywm",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -1212,12 +1919,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple GTK based notification daemon for any Wayland compositor",
+                    "homepage": null,
                     "id": 390109160,
                     "language": "Vala",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-25T15:18:34Z",
+                    "open_issues": 111,
                     "owner": "ErikReider",
                     "repo": "SwayNotificationCenter",
-                    "stars": 2567
+                    "stars": 2567,
+                    "topics": [
+                      "adwaita",
+                      "gtk",
+                      "gtk4",
+                      "libadwaita",
+                      "linux",
+                      "notification",
+                      "notification-center",
+                      "notification-server",
+                      "notification-service",
+                      "sway",
+                      "swaywm",
+                      "vala",
+                      "wayland",
+                      "wlroots"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -1228,12 +1955,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "DBus Implementation of Freedesktop Notification spec for 'hyprctl notify'",
+                    "homepage": null,
                     "id": 779410498,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-11T08:12:58Z",
+                    "open_issues": 8,
                     "owner": "codelif",
                     "repo": "hyprnotify",
-                    "stars": 123
+                    "stars": 123,
+                    "topics": [
+                      "dbus",
+                      "desktop-notifications",
+                      "freedesktop",
+                      "freedesktop-notifications",
+                      "hyprland",
+                      "notifications",
+                      "notify",
+                      "notify-send"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -1251,12 +1992,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A GTK based on screen display for keyboard shortcuts like caps-lock and volume",
+                    "homepage": null,
                     "id": 547250899,
                     "language": "Rust",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-22T20:40:01Z",
+                    "open_issues": 31,
                     "owner": "ErikReider",
                     "repo": "SwayOSD",
-                    "stars": 1297
+                    "stars": 1297,
+                    "topics": [
+                      "on-screen-display",
+                      "sway",
+                      "swaywm",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -1267,12 +2018,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Lightweight overlay volume, brightness (or anything) bar for Wayland ",
+                    "homepage": null,
                     "id": 196771545,
                     "language": "C",
+                    "license": "ISC",
                     "last_commit": "2026-05-23T10:57:51Z",
+                    "open_issues": 15,
                     "owner": "francma",
                     "repo": "wob",
-                    "stars": 1150
+                    "stars": 1150,
+                    "topics": [
+                      "sway",
+                      "swaywm",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -1283,12 +2043,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A neat notification daemon",
+                    "homepage": null,
                     "id": 176115943,
                     "language": "Vala",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-08T08:09:29Z",
+                    "open_issues": 26,
                     "owner": "heyjuvi",
                     "repo": "avizo",
-                    "stars": 619
+                    "stars": 619,
+                    "topics": [
+                      "gtk3",
+                      "notification",
+                      "sway",
+                      "vala"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -1299,12 +2069,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple heads up display",
+                    "homepage": null,
                     "id": 752734882,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-28T08:43:54Z",
+                    "open_issues": 2,
                     "owner": "System64fumo",
                     "repo": "syshud",
-                    "stars": 211
+                    "stars": 211,
+                    "topics": [
+                      "brightness-indicator",
+                      "gtk4",
+                      "gtkmm4",
+                      "hud",
+                      "volume-indicator",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -1315,12 +2097,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "nwg-shell configuration utility",
+                    "homepage": null,
                     "id": 440205077,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-12T00:26:03Z",
+                    "open_issues": 4,
                     "owner": "nwg-piotr",
                     "repo": "nwg-shell-config",
-                    "stars": 130
+                    "stars": 130,
+                    "topics": [
+                      "hyprland",
+                      "nwg-shell",
+                      "sway",
+                      "swaywm"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -1338,12 +2130,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications",
+                    "homepage": "https://wwmm.github.io/easyeffects/",
                     "id": 85591067,
                     "language": "HTML",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-27T23:16:05Z",
+                    "open_issues": 258,
                     "owner": "wwmm",
                     "repo": "easyeffects",
-                    "stars": 10080
+                    "stars": 10081,
+                    "topics": [
+                      "auto-volume",
+                      "compressor",
+                      "equalizer",
+                      "kde",
+                      "kirigami2",
+                      "pipewire",
+                      "pulseaudio",
+                      "qml",
+                      "qt",
+                      "reverberation",
+                      "stereo-equalizer-effects"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -1354,12 +2163,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Desktop utility that helps preventing repetitive strain injuries by keeping track of usage patterns and periodically informing the user to take breaks.",
+                    "homepage": null,
                     "id": 649137358,
                     "language": "Rust",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-01-07T03:07:27Z",
+                    "open_issues": 7,
                     "owner": "zefr0x",
                     "repo": "ianny",
-                    "stars": 223
+                    "stars": 223,
+                    "topics": [
+                      "break",
+                      "desktop",
+                      "eye",
+                      "rsi",
+                      "strain",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -1370,12 +2191,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple power menu/shutdown screen",
+                    "homepage": null,
                     "id": 801132268,
                     "language": "C++",
+                    "license": "WTFPL",
                     "last_commit": "2026-01-01T01:46:44Z",
+                    "open_issues": 1,
                     "owner": "System64fumo",
                     "repo": "syspower",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": [
+                      "gtk4",
+                      "gtkmm4",
+                      "powermenu",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -1386,12 +2217,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple authentication popup",
+                    "homepage": null,
                     "id": 1031421735,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-04-24T13:21:19Z",
+                    "open_issues": 0,
                     "owner": "System64fumo",
                     "repo": "sysauth",
-                    "stars": 29
+                    "stars": 29,
+                    "topics": [
+                      "gtk4",
+                      "gtkmm4",
+                      "polkit-agent"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -1414,12 +2254,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+                "homepage": "https://davatorium.github.io/rofi/",
                 "id": 7715820,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T12:41:51Z",
+                "open_issues": 114,
                 "owner": "davatorium",
                 "repo": "rofi",
-                "stars": 16354
+                "stars": 16354,
+                "topics": [
+                  "application-launcher",
+                  "c",
+                  "dmenu",
+                  "dmenu-replacement",
+                  "i3",
+                  "linux",
+                  "rofi",
+                  "window-switcher",
+                  "x11"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1430,12 +2285,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A focused launcher for your desktop - native, fast, extensible",
+                "homepage": "https://vicinae.com",
                 "id": 1027461827,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T22:41:20Z",
+                "open_issues": 193,
                 "owner": "vicinaehq",
                 "repo": "vicinae",
-                "stars": 9212
+                "stars": 9217,
+                "topics": [
+                  "app-launcher",
+                  "cpp23",
+                  "linux",
+                  "macos",
+                  "nodejs",
+                  "poweruser",
+                  "productivity",
+                  "qt",
+                  "raycast",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1446,12 +2317,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.",
+                "homepage": null,
                 "id": 768413390,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-23T23:34:24Z",
+                "open_issues": 21,
                 "owner": "abenz1267",
                 "repo": "walker",
-                "stars": 3007
+                "stars": 3008,
+                "topics": [
+                  "runner",
+                  "rust",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1462,12 +2342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic menu library and client program inspired by dmenu",
+                "homepage": null,
                 "id": 17872874,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2025-08-29T08:06:03Z",
+                "open_issues": 94,
                 "owner": "Cloudef",
                 "repo": "bemenu",
-                "stars": 1486
+                "stars": 1486,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1478,12 +2363,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tiny dynamic menu for Wayland",
+                "homepage": null,
                 "id": 425324233,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-12-30T15:19:27Z",
+                "open_issues": 117,
                 "owner": "philj56",
                 "repo": "tofi",
-                "stars": 1397
+                "stars": 1397,
+                "topics": [
+                  "application-launcher",
+                  "c",
+                  "dmenu",
+                  "dmenu-replacement",
+                  "linux",
+                  "sway",
+                  "swaywm",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1494,12 +2394,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A wayland native, highly customizable runner.",
+                "homepage": "https://matrix.to/#/#anyrun:kirottu.com",
                 "id": 582422837,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-14T08:13:07Z",
+                "open_issues": 72,
                 "owner": "anyrun-org",
                 "repo": "anyrun",
-                "stars": 1294
+                "stars": 1294,
+                "topics": [
+                  "gtk",
+                  "launcher",
+                  "runner",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1510,12 +2420,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred ",
+                "homepage": null,
                 "id": 309763297,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-04-24T14:03:56Z",
+                "open_issues": 12,
                 "owner": "onagre-launcher",
                 "repo": "onagre",
-                "stars": 676
+                "stars": 676,
+                "topics": [
+                  "alfred",
+                  "app-launcher",
+                  "application-launcher",
+                  "dmenu",
+                  "launcher",
+                  "rofi",
+                  "wayland",
+                  "wofi",
+                  "xorg"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1526,12 +2451,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "yofi is a minimalistic menu for wayland",
+                "homepage": "https://crates.io/crates/yofi",
                 "id": 317662885,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-04-17T00:32:31Z",
+                "open_issues": 19,
                 "owner": "l4l",
                 "repo": "yofi",
-                "stars": 439
+                "stars": 439,
+                "topics": [
+                  "application-launcher",
+                  "dmenu-replacement",
+                  "menu",
+                  "sway",
+                  "swaywm",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1542,12 +2480,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Application drawer for wlroots-based Wayland compositors",
+                "homepage": null,
                 "id": 368684382,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-24T01:28:34Z",
+                "open_issues": 31,
                 "owner": "nwg-piotr",
                 "repo": "nwg-drawer",
-                "stars": 422
+                "stars": 422,
+                "topics": [
+                  "hyprland",
+                  "sway"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1558,12 +2504,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple program launcher",
+                "homepage": null,
                 "id": 751174644,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-14T00:20:06Z",
+                "open_issues": 2,
                 "owner": "System64fumo",
                 "repo": "sysmenu",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "application-launcher",
+                  "gtk4",
+                  "gtkmm4",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1574,12 +2530,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 623441589,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-04-15T11:29:03Z",
+                "open_issues": 3,
                 "owner": "nthnd",
                 "repo": "hypr-empty",
-                "stars": 42
+                "stars": 42,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             }
@@ -1597,12 +2558,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Solution to your Wayland Wallpaper Woes",
+                "homepage": null,
                 "id": 443222557,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-10-31T19:31:40Z",
+                "open_issues": 41,
                 "owner": "LGFae",
                 "repo": "swww",
-                "stars": 3607
+                "stars": 3607,
+                "topics": [
+                  "swww",
+                  "wallpaper",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1613,12 +2583,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A video wallpaper program for wlroots based wayland compositors.",
+                "homepage": null,
                 "id": 284358500,
                 "language": "C",
-                "last_commit": "2026-08-24T02:11:40Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:52:57Z",
+                "open_issues": 17,
                 "owner": "GhostNaN",
                 "repo": "mpvpaper",
-                "stars": 1583
+                "stars": 1583,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1629,12 +2604,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyprpaper is a wayland wallpaper utility with IPC controls.",
+                "homepage": "https://wiki.hyprland.org/Hypr-Ecosystem/hyprpaper/",
                 "id": 509550539,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-13T18:14:10Z",
+                "open_issues": 52,
                 "owner": "hyprwm",
                 "repo": "hyprpaper",
-                "stars": 1345
+                "stars": 1345,
+                "topics": [
+                  "cpp20",
+                  "wallpaper",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1645,12 +2630,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI wallpaper manager for Wayland and Xorg Linux systems",
+                "homepage": "https://anufrievroman.gitbook.io/waypaper",
                 "id": 675910838,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T07:36:14Z",
+                "open_issues": 17,
                 "owner": "anufrievroman",
                 "repo": "waypaper",
-                "stars": 1056
+                "stars": 1056,
+                "topics": [
+                  "feh",
+                  "gtk3",
+                  "hyprland",
+                  "hyprpaper",
+                  "i3",
+                  "linux",
+                  "swaybg",
+                  "swaywm",
+                  "swww",
+                  "wallpaper",
+                  "wallpaper-app",
+                  "wallpaper-changer",
+                  "wallpaper-manager",
+                  "wayland-compatibility"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1661,12 +2666,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wallpaper tool for Wayland compositors",
+                "homepage": null,
                 "id": 183457601,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-25T08:00:23Z",
+                "open_issues": 14,
                 "owner": "swaywm",
                 "repo": "swaybg",
-                "stars": 810
+                "stars": 810,
+                "topics": [
+                  "sway",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1677,12 +2691,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern wallpaper daemon for Wayland",
+                "homepage": null,
                 "id": 445480515,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-10T09:59:42Z",
+                "open_issues": 31,
                 "owner": "danyspin97",
                 "repo": "wpaperd",
-                "stars": 606
+                "stars": 606,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1693,12 +2712,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A wallpaper setter with playlist functionality!",
+                "homepage": "https://0bcdian.github.io/Waypaper-Engine/",
                 "id": 656807892,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-09T18:53:56Z",
+                "open_issues": 6,
                 "owner": "0bCdian",
                 "repo": "Waypaper-Engine",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "archlinux",
+                  "electron",
+                  "hyprland",
+                  "nodejs",
+                  "qtile",
+                  "react",
+                  "sway",
+                  "swww",
+                  "typescript",
+                  "wallpaper",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             }
@@ -1716,12 +2752,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic brightness adjustment based on screen contents and ALS",
+                "homepage": null,
                 "id": 259100287,
                 "language": "Rust",
+                "license": "ISC",
                 "last_commit": "2026-08-27T19:43:24Z",
+                "open_issues": 1,
                 "owner": "max-baz",
                 "repo": "wluma",
-                "stars": 933
+                "stars": 933,
+                "topics": [
+                  "adaptive",
+                  "adaptive-brightness",
+                  "adaptive-learning",
+                  "ambient-light",
+                  "ambient-light-sensor",
+                  "backlight",
+                  "backlight-dimming",
+                  "brightness",
+                  "brightness-adjustment",
+                  "brightness-control",
+                  "brightness-level",
+                  "dark-mode",
+                  "dark-theme",
+                  "dimmer",
+                  "night-mode",
+                  "screen",
+                  "sway",
+                  "swaywm",
+                  "vulkan",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1732,12 +2794,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyprland shader configuration tool",
+                "homepage": null,
                 "id": 661169235,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-07T16:58:44Z",
+                "open_issues": 7,
                 "owner": "loqusion",
                 "repo": "hyprshade",
-                "stars": 566
+                "stars": 566,
+                "topics": [
+                  "accessibility",
+                  "blue-light-filter",
+                  "color-blind",
+                  "glsl-shaders",
+                  "hyprland",
+                  "nvidia",
+                  "shaders"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1748,12 +2823,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a simple Wayland output mirror client",
+                "homepage": null,
                 "id": 426827755,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-17T11:17:58Z",
+                "open_issues": 20,
                 "owner": "Ferdi265",
                 "repo": "wl-mirror",
-                "stars": 517
+                "stars": 517,
+                "topics": [
+                  "c",
+                  "cmake",
+                  "opengl",
+                  "wayland",
+                  "wayland-client",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1764,12 +2851,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "In short: Autorandr+Arandr for Hyprland. Manage Hyprland configuration based on connected displays, power and lid state.",
+                "homepage": "https://fiffeek.github.io/hyprdynamicmonitors/",
                 "id": 1043449158,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-02T20:11:04Z",
+                "open_issues": 21,
                 "owner": "fiffeek",
                 "repo": "hyprdynamicmonitors",
-                "stars": 365
+                "stars": 365,
+                "topics": [
+                  "display",
+                  "displays",
+                  "hyprland",
+                  "monitor",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1780,12 +2878,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Listen iio-sensor-proxy and auto change Hyprland output orientation",
+                "homepage": null,
                 "id": 604720923,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-26T10:32:56Z",
+                "open_issues": 4,
                 "owner": "JeanSchoeller",
                 "repo": "iio-hyprland",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1796,12 +2899,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "hyprland shader to prevent OLED burn in",
+                "homepage": null,
                 "id": 867283939,
                 "language": "Shell",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-15T12:20:45Z",
+                "open_issues": 1,
                 "owner": "mklan",
                 "repo": "hyproled",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1812,12 +2920,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run the user's script when you attach the monitor on Hyprland",
+                "homepage": null,
                 "id": 623138985,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-05-04T19:54:18Z",
+                "open_issues": 1,
                 "owner": "coffebar",
                 "repo": "hyprland-monitor-attached",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1828,12 +2941,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyprland utility that automates vibrance and night light control",
+                "homepage": null,
                 "id": 853859857,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-11-09T10:37:22Z",
+                "open_issues": 0,
                 "owner": "amadejkastelic",
                 "repo": "Hyprlux",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "hyprland",
+                  "night-light",
+                  "nix",
+                  "rust",
+                  "vibrance",
+                  "vibrancy"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1844,12 +2969,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Output management utility for sway, Hyprland and Niri",
+                "homepage": null,
                 "id": 462105148,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T19:52:27Z",
+                "open_issues": 39,
                 "owner": "nwg-piotr",
                 "repo": "nwg-displays",
-                "stars": 1090
+                "stars": 1090,
+                "topics": [
+                  "display",
+                  "displays",
+                  "hyprland",
+                  "monitors",
+                  "sway",
+                  "swaywm"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1860,12 +2997,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An application to enable a blue-light filter on Hyprland",
+                "homepage": null,
                 "id": 869208124,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-15T14:54:28Z",
+                "open_issues": 17,
                 "owner": "hyprwm",
                 "repo": "hyprsunset",
-                "stars": 481
+                "stars": 481,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1876,12 +3018,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MONitor Integrated QUick Editor — graphical monitor configurator for Hyprland and Sway",
+                "homepage": null,
                 "id": 1161539429,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-05T18:06:38Z",
+                "open_issues": 3,
                 "owner": "ToRvaLDz",
                 "repo": "monique",
-                "stars": 186
+                "stars": 186,
+                "topics": [
+                  "archlinux",
+                  "gtk4",
+                  "hyprland",
+                  "linux",
+                  "monitor-configuration",
+                  "python",
+                  "sway",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1892,12 +3048,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hot corners for Wayland. Create anchors in the corners of your monitors and execute a command of your choice.",
+                "homepage": null,
                 "id": 370176875,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-05-14T21:39:17Z",
+                "open_issues": 7,
                 "owner": "AndreasBackx",
                 "repo": "waycorner",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "hot-corners",
+                  "swaywm",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             }
@@ -1915,12 +3081,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A modern GTK4-based window switcher and application launcher for Hyprland",
+                "homepage": "https://crates.io/crates/hyprshell",
                 "id": 683826153,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-26T14:16:05Z",
+                "open_issues": 31,
                 "owner": "H3rmt",
                 "repo": "hyprshell",
-                "stars": 589
+                "stars": 590,
+                "topics": [
+                  "hyprland",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1931,12 +3105,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility to suspend a game process (and other programs) in Wayland compositors",
+                "homepage": null,
                 "id": 686389338,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-11T20:51:27Z",
+                "open_issues": 1,
                 "owner": "Zerodya",
                 "repo": "wl-freeze",
-                "stars": 244
+                "stars": 244,
+                "topics": [
+                  "games",
+                  "hyprland",
+                  "multitask",
+                  "niri",
+                  "pause",
+                  "suspend",
+                  "sway",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1947,12 +3135,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GNOME-like workspace switching in Hyprland.",
+                "homepage": "https://donovan.is/hyprnome",
                 "id": 685125509,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-30T10:02:04Z",
+                "open_issues": 11,
                 "owner": "donovanglover",
                 "repo": "hyprnome",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "gnome",
+                  "hyprland",
+                  "linux",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1963,12 +3161,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyprland  plugin to replicate the feel of kde activities and desktop grid layout",
+                "homepage": null,
                 "id": 773132456,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-31T18:51:47Z",
+                "open_issues": 2,
                 "owner": "thrombe",
                 "repo": "hyprkool",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "harpoon",
+                  "hyprland",
+                  "hyprland-plugin"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1979,12 +3186,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically dim windows in Hyprland when switching between them.",
+                "homepage": "https://donovan.is/hyprdim",
                 "id": 670812899,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-05-01T08:34:30Z",
+                "open_issues": 6,
                 "owner": "donovanglover",
                 "repo": "hyprdim",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "hyprland",
+                  "linux",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -1995,12 +3211,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple horizontal navigation feature for Hyprland",
+                "homepage": null,
                 "id": 797104953,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-08-23T13:50:55Z",
+                "open_issues": 1,
                 "owner": "ckaznable",
                 "repo": "hyprnavi",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "hyprland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -2011,12 +3234,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "KDE activities for hyprland [maintainer=@yavko]",
+                "homepage": null,
                 "id": 663968557,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-05-15T08:21:15Z",
+                "open_issues": 2,
                 "owner": "hyprland-community",
                 "repo": "hypract",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             }
@@ -2036,12 +3264,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:",
+                    "homepage": "https://flameshot.org",
                     "id": 90902132,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-28T19:11:15Z",
+                    "open_issues": 716,
                     "owner": "flameshot-org",
                     "repo": "flameshot",
-                    "stars": 30710
+                    "stars": 30709,
+                    "topics": [
+                      "capture",
+                      "cross-platform",
+                      "free-software",
+                      "gnu-linux",
+                      "gui",
+                      "hacktoberfest",
+                      "image-editing",
+                      "qt",
+                      "screenshot"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2052,12 +3295,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Satty - Modern Screenshot Annotation.",
+                    "homepage": null,
                     "id": 694624830,
                     "language": "Rust",
+                    "license": "MPL-2.0",
                     "last_commit": "2026-08-27T15:18:55Z",
+                    "open_issues": 82,
                     "owner": "Satty-org",
                     "repo": "Satty",
-                    "stars": 2355
+                    "stars": 2356,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2068,12 +3316,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Wayland native snapshot editing tool, inspired by Snappy on macOS",
+                    "homepage": null,
                     "id": 222614730,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T01:49:23Z",
+                    "open_issues": 49,
                     "owner": "jtheoof",
                     "repo": "swappy",
-                    "stars": 1497
+                    "stars": 1497,
+                    "topics": [
+                      "annotation-tool",
+                      "screenshot",
+                      "snappy",
+                      "snapshot",
+                      "sway",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2084,12 +3344,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hyprshot is an utility to easily take screenshots in Hyprland using your mouse.",
+                    "homepage": null,
                     "id": 564038396,
                     "language": "Shell",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-29T13:54:51Z",
+                    "open_issues": 80,
                     "owner": "Gustash",
                     "repo": "Hyprshot",
-                    "stars": 879
+                    "stars": 879,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2100,12 +3365,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Community scripts and utilities for Hypr projects",
+                    "homepage": null,
                     "id": 516027181,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2026-08-21T08:33:55Z",
+                    "open_issues": 16,
                     "owner": "hyprwm",
                     "repo": "contrib",
-                    "stars": 402
+                    "stars": 402,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2116,12 +3386,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple wayland native screenshot tool.",
+                    "homepage": null,
                     "id": 581437809,
                     "language": "Rust",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-06-28T09:25:00Z",
+                    "open_issues": 23,
                     "owner": "Kirottu",
                     "repo": "watershot",
-                    "stars": 212
+                    "stars": 212,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2132,12 +3407,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "screenshot tool for wayland compositors.",
+                    "homepage": "https://crates.io/crates/wayshot",
                     "id": 458755202,
                     "language": "Rust",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2026-08-25T07:08:12Z",
+                    "open_issues": 12,
                     "owner": "waycrate",
                     "repo": "wayshot",
-                    "stars": 190
+                    "stars": 190,
+                    "topics": [
+                      "hyprland",
+                      "screenshot",
+                      "sway",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2155,12 +3440,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Select a region in a Wayland compositor",
+                    "homepage": "https://wayland.emersion.fr/slurp",
                     "id": 134167267,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-05-10T11:04:31Z",
+                    "open_issues": 51,
                     "owner": "emersion",
                     "repo": "slurp",
-                    "stars": 1278
+                    "stars": 1278,
+                    "topics": [
+                      "cli",
+                      "screenshot",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2171,12 +3465,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A wlroots-compatible Wayland color picker that does not suck.",
+                    "homepage": null,
                     "id": 531992847,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-20T11:57:50Z",
+                    "open_issues": 24,
                     "owner": "hyprwm",
                     "repo": "hyprpicker",
-                    "stars": 1127
+                    "stars": 1127,
+                    "topics": [
+                      "color",
+                      "picker",
+                      "wayland",
+                      "wlroots"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2187,12 +3491,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tool to freeze the screen of a Wayland compositor",
+                    "homepage": null,
                     "id": 767371396,
                     "language": "Rust",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-23T13:21:11Z",
+                    "open_issues": 2,
                     "owner": "Jappie3",
                     "repo": "wayfreeze",
-                    "stars": 107
+                    "stars": 107,
+                    "topics": [
+                      "hyprland",
+                      "wayland",
+                      "wayland-client"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2203,12 +3516,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fork of grim that takes advantage of Hyprland's custom protocols to grab specific windows.",
+                    "homepage": null,
                     "id": 598406523,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-02-25T01:03:55Z",
+                    "open_issues": 1,
                     "owner": "eriedaberrie",
                     "repo": "grim-hyprland",
-                    "stars": 41
+                    "stars": 41,
+                    "topics": [
+                      "hyprland",
+                      "screenshot-utility",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2219,12 +3541,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wayland native area selector for compositors implementing zwlr_layer_shell. ",
+                    "homepage": null,
                     "id": 701574906,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-08-06T08:54:35Z",
+                    "open_issues": 3,
                     "owner": "waycrate",
                     "repo": "waysip",
-                    "stars": 30
+                    "stars": 30,
+                    "topics": [
+                      "selector",
+                      "slurp",
+                      "sway",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2235,12 +3567,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Freeze the screen of a Wayland compositor until a provided command exits",
+                    "homepage": null,
                     "id": 1067606026,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-12T15:24:50Z",
+                    "open_issues": 1,
                     "owner": "faergeek",
                     "repo": "still",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "freeze",
+                      "hyprland",
+                      "screenshot",
+                      "wayland",
+                      "wlroots"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2258,12 +3601,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 152992105,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-04-12T06:03:50Z",
+                    "open_issues": 56,
                     "owner": "ammen99",
                     "repo": "wf-recorder",
-                    "stars": 1310
+                    "stars": 1310,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2274,12 +3622,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "High performance wlroots screen recording, featuring hardware encoding",
+                    "homepage": null,
                     "id": 589056864,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-10T15:14:16Z",
+                    "open_issues": 29,
                     "owner": "rosalyntg",
                     "repo": "wl-screenrec",
-                    "stars": 625
+                    "stars": 625,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2297,12 +3650,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Wayland native snapshot editing tool, inspired by Snappy on macOS",
+                    "homepage": null,
                     "id": 222614730,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2025-12-16T01:49:23Z",
+                    "open_issues": 49,
                     "owner": "jtheoof",
                     "repo": "swappy",
-                    "stars": 1497
+                    "stars": 1497,
+                    "topics": [
+                      "annotation-tool",
+                      "screenshot",
+                      "snappy",
+                      "snapshot",
+                      "sway",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2313,12 +3678,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Live overlay for drawing, annotating with zoom, hiding text, and capturing screenshots on Linux. Can be used as whiteboard or blackboard. Highly customisable. Written in Rust.",
+                    "homepage": "https://wayscriber.com",
                     "id": 1075699186,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T19:29:30Z",
+                    "open_issues": 0,
                     "owner": "devmobasa",
                     "repo": "wayscriber",
-                    "stars": 720
+                    "stars": 720,
+                    "topics": [
+                      "annotations",
+                      "arch-linux",
+                      "archlinux",
+                      "hyprland",
+                      "kde",
+                      "kde-plasma",
+                      "linux",
+                      "omarchy",
+                      "ubuntu",
+                      "wayland",
+                      "zoom",
+                      "zoomit"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2336,12 +3719,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Zoomer application for Wayland inspired by tsoding's boomer",
+                    "homepage": null,
                     "id": 806223031,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-06-28T22:17:36Z",
+                    "open_issues": 17,
                     "owner": "coffeeispower",
                     "repo": "woomer",
-                    "stars": 270
+                    "stars": 270,
+                    "topics": [
+                      "boomer",
+                      "dotfiles",
+                      "hyprland",
+                      "linux",
+                      "utilities",
+                      "utility",
+                      "wayland",
+                      "zoom",
+                      "zoomer"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2364,12 +3762,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform context-aware key remapper.",
+                "homepage": null,
                 "id": 177397013,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T18:08:42Z",
+                "open_issues": 16,
                 "owner": "houmain",
                 "repo": "keymapper",
-                "stars": 1138
+                "stars": 1138,
+                "topics": [
+                  "accessibility",
+                  "automation",
+                  "context-awareness",
+                  "cross-platform",
+                  "keyboard-layout",
+                  "keyboard-shortcuts",
+                  "keymapper",
+                  "productivity",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -2380,12 +3793,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Per window keyboard layout (language) for Hyprland wayland compositor ",
+                "homepage": "https://www.buymeacoffee.com/coffebar",
                 "id": 598739428,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-01-11T15:21:05Z",
+                "open_issues": 1,
                 "owner": "coffebar",
                 "repo": "hyprland-per-window-layout",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "hyprland",
+                  "rust",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -2396,12 +3818,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A simple, scriptable keybind retrieval utility for Hyprland  [maintainer=none]",
+                "homepage": null,
                 "id": 552937986,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-30T13:57:23Z",
+                "open_issues": 2,
                 "owner": "hyprland-community",
                 "repo": "Hyprkeys",
-                "stars": 123
+                "stars": 123,
+                "topics": [
+                  "go",
+                  "hyprland",
+                  "wayland",
+                  "wlroots"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -2412,12 +3844,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Per window keyboard layout (language) for Hyprland wayland compositor",
+                "homepage": null,
                 "id": 575803508,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-10-04T18:36:21Z",
+                "open_issues": 1,
                 "owner": "MahouShoujoMivutilde",
                 "repo": "hyprland-per-window-layout",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "bash",
+                  "hyprland",
+                  "hyprland-ipc",
+                  "keyboard-layout",
+                  "wayland"
+                ]
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
             },
@@ -2430,12 +3873,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "On-screen keyboard for wlroots",
+                    "homepage": null,
                     "id": 295136626,
                     "language": "C",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-07-24T21:16:31Z",
+                    "open_issues": 28,
                     "owner": "jjsullivan5196",
                     "repo": "wvkbd",
-                    "stars": 458
+                    "stars": 458,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2446,12 +3894,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple virtual keyboard for wayland",
+                    "homepage": null,
                     "id": 835267414,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-11-23T01:19:00Z",
+                    "open_issues": 2,
                     "owner": "System64fumo",
                     "repo": "sysboard",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": [
+                      "gtk4",
+                      "gtkmm4",
+                      "osk",
+                      "virtual-keyboard"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2476,12 +3934,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A wayland based logout menu",
+                    "homepage": null,
                     "id": 230685959,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2024-07-04T04:04:20Z",
+                    "open_issues": 45,
                     "owner": "ArtsyMacaw",
                     "repo": "wlogout",
-                    "stars": 1053
+                    "stars": 1053,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2492,12 +3955,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Wayland-native logout script written in GTK4",
+                    "homepage": null,
                     "id": 604839748,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-07-25T05:33:48Z",
+                    "open_issues": 8,
                     "owner": "AMNatty",
                     "repo": "wleave",
-                    "stars": 345
+                    "stars": 345,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2508,12 +3976,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GTK3-based button bar for wlroots-based compositors",
+                    "homepage": null,
                     "id": 380852889,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2024-08-30T23:28:14Z",
+                    "open_issues": 6,
                     "owner": "nwg-piotr",
                     "repo": "nwg-bar",
-                    "stars": 175
+                    "stars": 175,
+                    "topics": [
+                      "gtk",
+                      "gtk3",
+                      "gui",
+                      "hyprland",
+                      "sway",
+                      "wlroots"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2524,12 +4004,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Inhibit idle behaviour of a Wayland compositor",
+                    "homepage": null,
                     "id": 769970138,
                     "language": "Rust",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-06-26T11:13:49Z",
+                    "open_issues": 2,
                     "owner": "Jappie3",
                     "repo": "vigiland",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": [
+                      "wayland",
+                      "wayland-client"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2547,12 +4035,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Idle management daemon for Wayland",
+                    "homepage": null,
                     "id": 165396470,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T14:31:39Z",
+                    "open_issues": 37,
                     "owner": "swaywm",
                     "repo": "swayidle",
-                    "stars": 756
+                    "stars": 756,
+                    "topics": [
+                      "sway",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2563,12 +4059,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hyprland's idle daemon",
+                    "homepage": null,
                     "id": 759004855,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-11T16:29:38Z",
+                    "open_issues": 43,
                     "owner": "hyprwm",
                     "repo": "hypridle",
-                    "stars": 696
+                    "stars": 696,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2586,12 +4087,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hyprland's GPU-accelerated screen locking utility",
+                    "homepage": null,
                     "id": 759446562,
                     "language": "C++",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-11T16:23:06Z",
+                    "open_issues": 189,
                     "owner": "hyprwm",
                     "repo": "hyprlock",
-                    "stars": 1643
+                    "stars": 1643,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2602,12 +4108,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Screen locker for Wayland",
+                    "homepage": null,
                     "id": 165581769,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2026-07-09T15:59:31Z",
+                    "open_issues": 101,
                     "owner": "swaywm",
                     "repo": "swaylock",
-                    "stars": 1216
+                    "stars": 1216,
+                    "topics": [
+                      "sway",
+                      "wayland",
+                      "wlroots"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2618,12 +4133,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Swaylock, with fancy effects",
+                    "homepage": null,
                     "id": 193592497,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2023-11-28T20:49:18Z",
+                    "open_issues": 61,
                     "owner": "mortie",
                     "repo": "swaylock-effects",
-                    "stars": 862
+                    "stars": 862,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2634,12 +4154,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simple screen locker for wayland",
+                    "homepage": null,
                     "id": 808153285,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-10-31T02:59:08Z",
+                    "open_issues": 0,
                     "owner": "System64fumo",
                     "repo": "syslock",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": [
+                      "gtk4",
+                      "gtkmm4",
+                      "lockscreen",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2657,12 +4187,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Wayland clipboard manager with support for multimedia",
+                    "homepage": null,
                     "id": 374363264,
                     "language": "Go",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-06-08T11:45:44Z",
+                    "open_issues": 13,
                     "owner": "sentriz",
                     "repo": "cliphist",
-                    "stars": 1532
+                    "stars": 1532,
+                    "topics": [
+                      "clipboard",
+                      "clipboard-manager",
+                      "hyprland",
+                      "sway",
+                      "wayfire",
+                      "wayland",
+                      "wl-roots"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2673,12 +4216,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Clipboard history manager for Wayland, inspired by cliphist",
+                    "homepage": null,
                     "id": 1046515488,
                     "language": "Rust",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-25T09:17:51Z",
+                    "open_issues": 2,
                     "owner": "Rolv-Apneseth",
                     "repo": "clipvault",
-                    "stars": 118
+                    "stars": 118,
+                    "topics": [
+                      "clipboard",
+                      "clipboard-history",
+                      "clipboard-manager",
+                      "hyprland",
+                      "niri",
+                      "sway",
+                      "wayfire",
+                      "wayland"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2689,12 +4246,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple clipboard manager for Wayland - (Active Fork)",
+                    "homepage": null,
                     "id": 697629757,
                     "language": "Go",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-06T15:17:12Z",
+                    "open_issues": 2,
                     "owner": "chmouel",
                     "repo": "clipman",
-                    "stars": 90
+                    "stars": 90,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 }
@@ -2712,12 +4274,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Niri Screen Time",
+                    "homepage": null,
                     "id": 986978647,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2026-07-28T09:22:55Z",
+                    "open_issues": 1,
                     "owner": "probeldev",
                     "repo": "niri-screen-time",
-                    "stars": 65
+                    "stars": 65,
+                    "topics": [
+                      "hyprland",
+                      "linux",
+                      "macos",
+                      "niri",
+                      "screentime"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
                 },
@@ -2730,12 +4303,22 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "QML based X11 and Wayland display manager",
+                        "homepage": null,
                         "id": 7675929,
                         "language": "C++",
+                        "license": "GPL-2.0",
                         "last_commit": "2026-08-19T10:45:49Z",
+                        "open_issues": 752,
                         "owner": "sddm",
                         "repo": "sddm",
-                        "stars": 2335
+                        "stars": 2335,
+                        "topics": [
+                          "qml",
+                          "qtquick",
+                          "wayland",
+                          "xorg"
+                        ]
                       },
                       "first_seen": "2026-08-29T01:46:00.592Z"
                     },
@@ -2746,12 +4329,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Display Manager",
+                        "homepage": null,
                         "id": 105293804,
                         "language": "C",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-08-20T12:27:17Z",
+                        "open_issues": 231,
                         "owner": "ubuntu",
                         "repo": "lightdm",
-                        "stars": 1006
+                        "stars": 1006,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T01:46:00.592Z"
                     },
@@ -2767,12 +4355,24 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Graphical console greeter for greetd",
+                            "homepage": null,
                             "id": 275341307,
                             "language": "Rust",
+                            "license": "GPL-3.0",
                             "last_commit": "2026-08-26T04:17:39Z",
+                            "open_issues": 27,
                             "owner": "tuigreet",
                             "repo": "tuigreet",
-                            "stars": 1751
+                            "stars": 1751,
+                            "topics": [
+                              "greetd",
+                              "linux",
+                              "login",
+                              "tui",
+                              "wayland",
+                              "xorg"
+                            ]
                           },
                           "first_seen": "2026-08-29T01:46:00.592Z"
                         }
@@ -2798,15 +4398,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:46:00.592Z",
+    "last_updated": "2026-08-29T04:19:43.624Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list for Hyprland [maintainer=@yavko]",
+      "homepage": null,
       "id": 576150049,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-14T05:36:41Z",
+      "open_issues": 46,
       "owner": "hyprland-community",
       "repo": "awesome-hyprland",
-      "stars": 5286
+      "stars": 5287,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "awesome-lists",
+        "awesome-readme",
+        "awesome-resources",
+        "hyprland",
+        "hyprland-ipc",
+        "list",
+        "resources"
+      ]
     },
     "original_repository_sha": "53afd330a1cdf27657e4f8c109899b11aa9086db",
     "enhanced_repository": "enhansome/enhansome-hyprland",
