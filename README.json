@@ -381,7 +381,7 @@
             "open_issues": 2,
             "owner": "acropolis914",
             "repo": "hyprsettings",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "hyprland",
               "hyprland-config"
@@ -547,7 +547,7 @@
             "open_issues": 87,
             "owner": "KZDKM",
             "repo": "Hyprspace",
-            "stars": 1275,
+            "stars": 1277,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
@@ -565,10 +565,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-08-23T05:12:44Z",
-            "open_issues": 96,
+            "open_issues": 98,
             "owner": "outfoxxed",
             "repo": "hy3",
-            "stars": 1171,
+            "stars": 1172,
             "topics": [
               "hyprland",
               "hyprland-plugin"
@@ -621,7 +621,7 @@
             "open_issues": 20,
             "owner": "VirtCode",
             "repo": "hypr-dynamic-cursors",
-            "stars": 718,
+            "stars": 719,
             "topics": [
               "cursor",
               "hyprland",
@@ -643,8 +643,8 @@
             "id": 611337444,
             "language": "C++",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-30T03:13:47Z",
-            "open_issues": 20,
+            "last_commit": "2026-08-31T16:42:16Z",
+            "open_issues": 16,
             "owner": "horriblename",
             "repo": "hyprgrass",
             "stars": 590,
@@ -692,7 +692,7 @@
             "open_issues": 26,
             "owner": "raybbian",
             "repo": "hyprtasking",
-            "stars": 368,
+            "stars": 369,
             "topics": []
           },
           "first_seen": "2026-08-29T01:46:00.592Z"
@@ -993,7 +993,7 @@
                 "open_issues": 165,
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1444,
+                "stars": 1445,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
@@ -1014,7 +1014,7 @@
                 "open_issues": 165,
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1444,
+                "stars": 1445,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
@@ -1035,7 +1035,7 @@
                 "open_issues": 165,
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1444,
+                "stars": 1445,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
@@ -1056,7 +1056,7 @@
                 "open_issues": 165,
                 "owner": "hyprwm",
                 "repo": "hyprland-plugins",
-                "stars": 1444,
+                "stars": 1445,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
@@ -1075,7 +1075,7 @@
             "open_issues": 165,
             "owner": "hyprwm",
             "repo": "hyprland-plugins",
-            "stars": 1444,
+            "stars": 1445,
             "topics": []
           },
           "title": "Official plugins",
@@ -1095,7 +1095,7 @@
                 "id": 633571482,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-22T18:23:28Z",
+                "last_commit": "2026-08-31T20:12:11Z",
                 "open_issues": 2,
                 "owner": "hyprland-community",
                 "repo": "pyprland",
@@ -1199,7 +1199,7 @@
                 "open_issues": 189,
                 "owner": "hyprwm",
                 "repo": "hyprlock",
-                "stars": 1642,
+                "stars": 1644,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
@@ -1220,7 +1220,7 @@
                 "open_issues": 51,
                 "owner": "hyprwm",
                 "repo": "hyprpaper",
-                "stars": 1346,
+                "stars": 1348,
                 "topics": [
                   "cpp20",
                   "wallpaper",
@@ -1243,10 +1243,10 @@
                 "language": "C++",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-08-30T19:36:29Z",
-                "open_issues": 26,
+                "open_issues": 25,
                 "owner": "hyprwm",
                 "repo": "hyprpicker",
-                "stars": 1129,
+                "stars": 1132,
                 "topics": [
                   "color",
                   "picker",
@@ -1293,7 +1293,7 @@
                 "open_issues": 10,
                 "owner": "hyprwm",
                 "repo": "hyprcursor",
-                "stars": 568,
+                "stars": 570,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
@@ -1342,7 +1342,7 @@
                 "open_issues": 379,
                 "owner": "elkowar",
                 "repo": "eww",
-                "stars": 12644,
+                "stars": 12646,
                 "topics": [
                   "desktop",
                   "eww",
@@ -1372,10 +1372,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-27T20:37:29Z",
-                "open_issues": 714,
+                "open_issues": 718,
                 "owner": "Alexays",
                 "repo": "Waybar",
-                "stars": 11882,
+                "stars": 11885,
                 "topics": [
                   "bar",
                   "gtk",
@@ -1404,7 +1404,7 @@
                 "open_issues": 226,
                 "owner": "Jas-SinghFSU",
                 "repo": "HyprPanel",
-                "stars": 2198,
+                "stars": 2197,
                 "topics": [
                   "ags",
                   "astal",
@@ -1444,7 +1444,7 @@
                 "open_issues": 121,
                 "owner": "JakeStanger",
                 "repo": "ironbar",
-                "stars": 1447,
+                "stars": 1448,
                 "topics": [
                   "bar",
                   "desktop",
@@ -1504,11 +1504,11 @@
                 "id": 662689471,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-27T15:03:13Z",
-                "open_issues": 97,
+                "last_commit": "2026-08-31T17:41:23Z",
+                "open_issues": 96,
                 "owner": "MalpenZibo",
                 "repo": "ashell",
-                "stars": 1082,
+                "stars": 1086,
                 "topics": [
                   "bar",
                   "hyprland",
@@ -1539,7 +1539,7 @@
                 "open_issues": 155,
                 "owner": "wayle-rs",
                 "repo": "wayle",
-                "stars": 899,
+                "stars": 900,
                 "topics": [
                   "bar",
                   "catppuccin",
@@ -1594,8 +1594,8 @@
                 "id": 834792716,
                 "language": "Python",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-08-28T15:44:43Z",
-                "open_issues": 66,
+                "last_commit": "2026-08-31T07:54:53Z",
+                "open_issues": 67,
                 "owner": "ignis-sh",
                 "repo": "ignis",
                 "stars": 685,
@@ -1628,7 +1628,7 @@
                 "open_issues": 3,
                 "owner": "enhaoswen",
                 "repo": "Tide-island",
-                "stars": 642,
+                "stars": 648,
                 "topics": [
                   "archlinux",
                   "bar",
@@ -1684,7 +1684,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-08-19T23:33:51Z",
-                "open_issues": 29,
+                "open_issues": 30,
                 "owner": "nwg-piotr",
                 "repo": "nwg-dock-hyprland",
                 "stars": 449,
@@ -1902,7 +1902,7 @@
                     "open_issues": 135,
                     "owner": "emersion",
                     "repo": "mako",
-                    "stars": 3237,
+                    "stars": 3241,
                     "topics": [
                       "cli",
                       "notifications",
@@ -1928,7 +1928,7 @@
                     "open_issues": 111,
                     "owner": "ErikReider",
                     "repo": "SwayNotificationCenter",
-                    "stars": 2568,
+                    "stars": 2569,
                     "topics": [
                       "adwaita",
                       "gtk",
@@ -2135,11 +2135,11 @@
                     "id": 85591067,
                     "language": "HTML",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-30T17:59:17Z",
-                    "open_issues": 259,
+                    "last_commit": "2026-08-31T16:02:41Z",
+                    "open_issues": 261,
                     "owner": "wwmm",
                     "repo": "easyeffects",
-                    "stars": 10107,
+                    "stars": 10113,
                     "topics": [
                       "auto-volume",
                       "compressor",
@@ -2260,10 +2260,10 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-27T12:41:51Z",
-                "open_issues": 114,
+                "open_issues": 116,
                 "owner": "davatorium",
                 "repo": "rofi",
-                "stars": 16357,
+                "stars": 16362,
                 "topics": [
                   "application-launcher",
                   "c",
@@ -2290,11 +2290,11 @@
                 "id": 1027461827,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T13:53:30Z",
+                "last_commit": "2026-08-31T21:36:21Z",
                 "open_issues": 195,
                 "owner": "vicinaehq",
                 "repo": "vicinae",
-                "stars": 9246,
+                "stars": 9268,
                 "topics": [
                   "app-launcher",
                   "cpp23",
@@ -2323,10 +2323,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-23T23:34:24Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "abenz1267",
                 "repo": "walker",
-                "stars": 3008,
+                "stars": 3013,
                 "topics": [
                   "runner",
                   "rust",
@@ -2403,7 +2403,7 @@
                 "open_issues": 72,
                 "owner": "anyrun-org",
                 "repo": "anyrun",
-                "stars": 1294,
+                "stars": 1295,
                 "topics": [
                   "gtk",
                   "launcher",
@@ -2592,7 +2592,7 @@
                 "open_issues": 17,
                 "owner": "GhostNaN",
                 "repo": "mpvpaper",
-                "stars": 1586,
+                "stars": 1590,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:46:00.592Z"
@@ -2613,7 +2613,7 @@
                 "open_issues": 51,
                 "owner": "hyprwm",
                 "repo": "hyprpaper",
-                "stars": 1346,
+                "stars": 1348,
                 "topics": [
                   "cpp20",
                   "wallpaper",
@@ -2635,11 +2635,11 @@
                 "id": 675910838,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T23:55:18Z",
+                "last_commit": "2026-08-31T08:45:36Z",
                 "open_issues": 14,
                 "owner": "anufrievroman",
                 "repo": "waypaper",
-                "stars": 1056,
+                "stars": 1057,
                 "topics": [
                   "feh",
                   "gtk3",
@@ -2675,7 +2675,7 @@
                 "open_issues": 14,
                 "owner": "swaywm",
                 "repo": "swaybg",
-                "stars": 811,
+                "stars": 812,
                 "topics": [
                   "sway",
                   "wayland",
@@ -2757,11 +2757,11 @@
                 "id": 259100287,
                 "language": "Rust",
                 "license": "ISC",
-                "last_commit": "2026-08-30T20:53:22Z",
+                "last_commit": "2026-08-31T19:22:44Z",
                 "open_issues": 2,
                 "owner": "max-baz",
                 "repo": "wluma",
-                "stars": 933,
+                "stars": 936,
                 "topics": [
                   "adaptive",
                   "adaptive-brightness",
@@ -2803,7 +2803,7 @@
                 "open_issues": 7,
                 "owner": "loqusion",
                 "repo": "hyprshade",
-                "stars": 566,
+                "stars": 567,
                 "topics": [
                   "accessibility",
                   "blue-light-filter",
@@ -2832,7 +2832,7 @@
                 "open_issues": 20,
                 "owner": "Ferdi265",
                 "repo": "wl-mirror",
-                "stars": 519,
+                "stars": 521,
                 "topics": [
                   "c",
                   "cmake",
@@ -3027,7 +3027,7 @@
                 "open_issues": 3,
                 "owner": "ToRvaLDz",
                 "repo": "monique",
-                "stars": 187,
+                "stars": 188,
                 "topics": [
                   "archlinux",
                   "gtk4",
@@ -3087,7 +3087,7 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-26T14:16:05Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "H3rmt",
                 "repo": "hyprshell",
                 "stars": 590,
@@ -3270,10 +3270,10 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-30T08:50:34Z",
-                    "open_issues": 717,
+                    "open_issues": 719,
                     "owner": "flameshot-org",
                     "repo": "flameshot",
-                    "stars": 30721,
+                    "stars": 30737,
                     "topics": [
                       "capture",
                       "cross-platform",
@@ -3300,11 +3300,11 @@
                     "id": 694624830,
                     "language": "Rust",
                     "license": "MPL-2.0",
-                    "last_commit": "2026-08-27T15:18:55Z",
+                    "last_commit": "2026-08-31T14:48:26Z",
                     "open_issues": 82,
                     "owner": "Satty-org",
                     "repo": "Satty",
-                    "stars": 2363,
+                    "stars": 2364,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
@@ -3353,7 +3353,7 @@
                     "open_issues": 80,
                     "owner": "Gustash",
                     "repo": "Hyprshot",
-                    "stars": 879,
+                    "stars": 880,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
@@ -3412,8 +3412,8 @@
                     "id": 458755202,
                     "language": "Rust",
                     "license": "BSD-2-Clause",
-                    "last_commit": "2026-08-25T07:08:12Z",
-                    "open_issues": 12,
+                    "last_commit": "2026-08-31T13:19:01Z",
+                    "open_issues": 13,
                     "owner": "waycrate",
                     "repo": "wayshot",
                     "stars": 190,
@@ -3449,7 +3449,7 @@
                     "open_issues": 51,
                     "owner": "emersion",
                     "repo": "slurp",
-                    "stars": 1278,
+                    "stars": 1279,
                     "topics": [
                       "cli",
                       "screenshot",
@@ -3471,10 +3471,10 @@
                     "language": "C++",
                     "license": "BSD-3-Clause",
                     "last_commit": "2026-08-30T19:36:29Z",
-                    "open_issues": 26,
+                    "open_issues": 25,
                     "owner": "hyprwm",
                     "repo": "hyprpicker",
-                    "stars": 1129,
+                    "stars": 1132,
                     "topics": [
                       "color",
                       "picker",
@@ -3683,7 +3683,7 @@
                     "id": 1075699186,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-08-30T20:35:13Z",
+                    "last_commit": "2026-08-30T21:53:56Z",
                     "open_issues": 0,
                     "owner": "devmobasa",
                     "repo": "wayscriber",
@@ -3728,7 +3728,7 @@
                     "open_issues": 17,
                     "owner": "coffeeispower",
                     "repo": "woomer",
-                    "stars": 271,
+                    "stars": 272,
                     "topics": [
                       "boomer",
                       "dotfiles",
@@ -3771,7 +3771,7 @@
                 "open_issues": 16,
                 "owner": "houmain",
                 "repo": "keymapper",
-                "stars": 1138,
+                "stars": 1140,
                 "topics": [
                   "accessibility",
                   "automation",
@@ -4041,7 +4041,7 @@
                     "language": "C",
                     "license": "MIT",
                     "last_commit": "2026-08-27T14:31:39Z",
-                    "open_issues": 37,
+                    "open_issues": 38,
                     "owner": "swaywm",
                     "repo": "swayidle",
                     "stars": 755,
@@ -4096,7 +4096,7 @@
                     "open_issues": 189,
                     "owner": "hyprwm",
                     "repo": "hyprlock",
-                    "stars": 1642,
+                    "stars": 1644,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T01:46:00.592Z"
@@ -4117,7 +4117,7 @@
                     "open_issues": 101,
                     "owner": "swaywm",
                     "repo": "swaylock",
-                    "stars": 1217,
+                    "stars": 1218,
                     "topics": [
                       "sway",
                       "wayland",
@@ -4196,7 +4196,7 @@
                     "open_issues": 13,
                     "owner": "sentriz",
                     "repo": "cliphist",
-                    "stars": 1533,
+                    "stars": 1535,
                     "topics": [
                       "clipboard",
                       "clipboard-manager",
@@ -4334,8 +4334,8 @@
                         "id": 105293804,
                         "language": "C",
                         "license": "GPL-3.0",
-                        "last_commit": "2026-08-20T12:27:17Z",
-                        "open_issues": 233,
+                        "last_commit": "2026-08-31T12:43:38Z",
+                        "open_issues": 232,
                         "owner": "ubuntu",
                         "repo": "lightdm",
                         "stars": 1006,
@@ -4364,7 +4364,7 @@
                             "open_issues": 27,
                             "owner": "tuigreet",
                             "repo": "tuigreet",
-                            "stars": 1754,
+                            "stars": 1758,
                             "topics": [
                               "greetd",
                               "linux",
@@ -4398,7 +4398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:09:00.720Z",
+    "last_updated": "2026-08-31T22:52:42.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list for Hyprland [maintainer=@yavko]",
@@ -4407,10 +4407,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-06-14T05:36:41Z",
-      "open_issues": 48,
+      "open_issues": 50,
       "owner": "hyprland-community",
       "repo": "awesome-hyprland",
-      "stars": 5292,
+      "stars": 5293,
       "topics": [
         "awesome",
         "awesome-list",
