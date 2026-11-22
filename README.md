@@ -36,10 +36,10 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 ## Plugins
 
 * [hyprspace](https://github.com/KZDKM/Hyprspace) ⭐ 1,327 | 🐛 79 | 🌐 C++ | 📅 2026-10-30 ![c++][cpp] (Hyprland plugin that adds workspace overview similar to KDE Plasma and macOS)
-* [hy3](https://github.com/outfoxxed/hy3) ⭐ 1,204 | 🐛 104 | 🌐 C++ | 📅 2026-10-30 ![c++][cpp] (Adds i3-like manual tiling)
+* [hy3](https://github.com/outfoxxed/hy3) ⭐ 1,204 | 🐛 105 | 🌐 C++ | 📅 2026-10-30 ![c++][cpp] (Adds i3-like manual tiling)
 * [split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) ⭐ 813 | 🐛 6 | 🌐 Lua | 📅 2026-11-10 ![c++][cpp] (A small Hyprland plugin to provide awesome-like workspace behavior)
 * [dynamic-cursors](https://github.com/VirtCode/hypr-dynamic-cursors) ⭐ 766 | 🐛 24 | 🌐 C++ | 📅 2026-10-05 ![c++][cpp] (A plugin to make your hyprland cursor more realistic, also adds shake to find.)
-* [hyprgrass](https://github.com/horriblename/hyprgrass) ⭐ 608 | 🐛 15 | 🌐 C++ | 📅 2026-11-21 ![c++][cpp] (Hyprland plugin for touch screen gestures)
+* [hyprgrass](https://github.com/horriblename/hyprgrass) ⭐ 608 | 🐛 16 | 🌐 C++ | 📅 2026-11-22 ![c++][cpp] (Hyprland plugin for touch screen gestures)
 * [hyprscroller](https://github.com/dawsers/hyprscroller) ⚠️ Archived ![c++][cpp] (Scrolling layout plugin similar to PaperWM or niri)
 * [Hyprtasking](https://github.com/raybbian/hyprtasking) ⭐ 398 | 🐛 37 | 🌐 C++ | 📅 2026-11-10 ![c++][cpp] (Powerful workspace management plugin, packed with features)
 * [hyprland-virtual-desktops](https://github.com/levnikmyskin/hyprland-virtual-desktops) ⭐ 327 | 🐛 13 | 🌐 C++ | 📅 2026-11-09 ![c++][cpp] (Manages multiple screen's workspaces as if they were a single virtual desktop)
@@ -92,21 +92,21 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 ### Official tools
 
 * [hyprlock](https://github.com/hyprwm/hyprlock) ⭐ 1,694 | 🐛 211 | 🌐 C++ | 📅 2026-11-18 ![C++][cpp] (Lock screen)
-* [hyprpaper](https://github.com/hyprwm/hyprpaper) ⭐ 1,360 | 🐛 54 | 🌐 C++ | 📅 2026-11-10 ![c++][cpp] (Wallpaper daemon)
+* [hyprpaper](https://github.com/hyprwm/hyprpaper) ⭐ 1,361 | 🐛 54 | 🌐 C++ | 📅 2026-11-10 ![c++][cpp] (Wallpaper daemon)
 * [hyprpicker](https://github.com/hyprwm/hyprpicker) ⭐ 1,152 | 🐛 26 | 🌐 C++ | 📅 2026-11-16  ![c++][cpp] (Colorpicker)
-* [hypridle](https://github.com/hyprwm/hypridle) ⭐ 707 | 🐛 41 | 🌐 C++ | 📅 2026-11-10 ![C++][cpp] (Idle daemon)
+* [hypridle](https://github.com/hyprwm/hypridle) ⭐ 708 | 🐛 41 | 🌐 C++ | 📅 2026-11-10 ![C++][cpp] (Idle daemon)
 * [hyprcursor](https://github.com/hyprwm/hyprcursor) ⭐ 581 | 🐛 10 | 🌐 C++ | 📅 2026-11-16 ![C++][cpp] (Utility for creating cursors for Hyprland)
 * [hyprsunset](https://github.com/hyprwm/hyprsunset) ⭐ 490 | 🐛 18 | 🌐 C++ | 📅 2026-11-13 ![C++][cpp] (Hyprland utility for color temperature filter)
 
 ### Status Bar/Shell
 
-* [eww](https://github.com/elkowar/eww/) ⭐ 12,775 | 🐛 383 | 🌐 Rust | 📅 2026-07-17 ![rust][rs] (Widget framework built on gtk, that can be used as a statusbar)
-* [waybar](https://github.com/Alexays/Waybar/) ⭐ 12,183 | 🐛 757 | 🌐 C++ | 📅 2026-11-21 ![c++][cpp] (Highly customizable Wayland bar for Sway and Wlroots based compositors.)
+* [eww](https://github.com/elkowar/eww/) ⭐ 12,774 | 🐛 383 | 🌐 Rust | 📅 2026-07-17 ![rust][rs] (Widget framework built on gtk, that can be used as a statusbar)
+* [waybar](https://github.com/Alexays/Waybar/) ⭐ 12,189 | 🐛 755 | 🌐 C++ | 📅 2026-11-21 ![c++][cpp] (Highly customizable Wayland bar for Sway and Wlroots based compositors.)
 * [HyprPanel](https://github.com/Jas-SinghFSU/HyprPanel) ⚠️ Archived ![typescript][ts] (A Bar/Panel for Hyprland with extensive customizability and context menus.)
-* [ironbar](https://github.com/JakeStanger/ironbar) ⭐ 1,523 | 🐛 109 | 🌐 Rust | 📅 2026-11-21 ![rust][rs] (Very customizable bar with gui components)
-* [fabric](https://github.com/Fabric-Development/fabric) ⭐ 1,400 | 🐛 4 | 🌐 Python | 📅 2026-11-01 ![python][py] (Fabric is a python widgets framework for wayland and X11 using gtk)
-* [ashell](https://github.com/MalpenZibo/ashell) ⭐ 1,175 | 🐛 58 | 🌐 Rust | 📅 2026-11-21 ![rust][rs] (A ready to go Wayland status bar for Hyprland)
-* [wayle](https://github.com/wayle-rs/wayle) ⭐ 1,016 | 🐛 185 | 🌐 Rust | 📅 2026-11-02 ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
+* [ironbar](https://github.com/JakeStanger/ironbar) ⭐ 1,522 | 🐛 109 | 🌐 Rust | 📅 2026-11-22 ![rust][rs] (Very customizable bar with gui components)
+* [fabric](https://github.com/Fabric-Development/fabric) ⭐ 1,402 | 🐛 4 | 🌐 Python | 📅 2026-11-01 ![python][py] (Fabric is a python widgets framework for wayland and X11 using gtk)
+* [ashell](https://github.com/MalpenZibo/ashell) ⭐ 1,175 | 🐛 60 | 🌐 Rust | 📅 2026-11-21 ![rust][rs] (A ready to go Wayland status bar for Hyprland)
+* [wayle](https://github.com/wayle-rs/wayle) ⭐ 1,017 | 🐛 185 | 🌐 Rust | 📅 2026-11-02 ![rust][rs] (A Wayland desktop shell with the bar, notifications, OSD, wallpaper, and device controls built in.)
 * [Tide-island](https://github.com/enhaoswen/Tide-island) ⭐ 795 | 🐛 4 | 🌐 QML | 📅 2026-11-13 ![c++][cpp] (Lightweight, flexible interactive island for Hyprland)
 * [nwg-panel](https://github.com/nwg-piotr/nwg-panel) ⭐ 781 | 🐛 19 | 🌐 Python | 📅 2026-11-05 ![python][py] (GTK3-based panel with good support for Hyprland)
 * [ignis](https://github.com/linkfrg/ignis) ⭐ 695 | 🐛 69 | 🌐 Python | 📅 2026-11-19 ![python][py] (GTK4-based widget framework for bars and other widgets)
@@ -125,8 +125,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### Notification Daemons
 
-* [mako](https://github.com/emersion/mako) ⭐ 3,314 | 🐛 142 | 🌐 C | 📅 2026-10-29 ![c][c] (Very simple and configurable notification daemon)
-* [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,656 | 🐛 128 | 🌐 Vala | 📅 2026-06-25 ![vala][va] (GNOME like notification daemon, with GUI and all)
+* [mako](https://github.com/emersion/mako) ⭐ 3,315 | 🐛 142 | 🌐 C | 📅 2026-10-29 ![c][c] (Very simple and configurable notification daemon)
+* [SwayNotificationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,654 | 🐛 128 | 🌐 Vala | 📅 2026-06-25 ![vala][va] (GNOME like notification daemon, with GUI and all)
 * [Hokum](https://github.com/anomalyco/hokum) ⭐ 259 | 🐛 13 | 🌐 Rust | 📅 2026-11-14 ![rust][rs] (GPU-rendered notification daemon with themes, per-app rules and Do not disturb)
 * [hyprnotify](https://github.com/codelif/hyprnotify) ⭐ 123 | 🐛 8 | 🌐 Go | 📅 2026-07-11 ![go][go] (Notification daemon with 'hyprctl notify' as backend)
 * [dunst](https://dunst-project.org/) ![c][c] (Very customizable notification daemon)
@@ -134,7 +134,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### OSD
 
-* [SwayOSD](https://github.com/ErikReider/SwayOSD) ⭐ 1,333 | 🐛 38 | 🌐 Rust | 📅 2026-06-22 ![rust][rs] (GNOME like OSD written in gtk)
+* [SwayOSD](https://github.com/ErikReider/SwayOSD) ⭐ 1,334 | 🐛 38 | 🌐 Rust | 📅 2026-06-22 ![rust][rs] (GNOME like OSD written in gtk)
 * [Wob](https://github.com/francma/wob) ⭐ 1,168 | 🐛 17 | 🌐 C | 📅 2026-09-05 ![c][c] (dead simple OSD inspired by xob)
 * [Avizo](https://github.com/misterdanb/avizo) ⭐ 625 | 🐛 28 | 🌐 Vala | 📅 2025-10-08 ![vala][va] (macOS like OSD written in gtk, also comes with nice scripts)
 * [syshud](https://github.com/System64fumo/syshud) ⭐ 211 | 🐛 2 | 🌐 C++ | 📅 2026-09-07 ![c++][cpp] (Simple heads up display)
@@ -142,7 +142,7 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### Misc
 
-* [easyeffects](https://github.com/wwmm/easyeffects) ⭐ 10,533 | 🐛 288 | 🌐 HTML | 📅 2026-11-21 ![c++][cpp] (Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications)
+* [easyeffects](https://github.com/wwmm/easyeffects) ⭐ 10,541 | 🐛 286 | 🌐 HTML | 📅 2026-11-22 ![c++][cpp] (Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications)
 * [Ianny](https://github.com/zefr0x/ianny) ⭐ 222 | 🐛 7 | 🌐 Rust | 📅 2026-01-07 ![rust][rs] (Periodically informs user to take breaks by keeping track of usage patterns)
 * [syspower](https://github.com/System64fumo/syspower) ⭐ 66 | 🐛 1 | 🌐 C++ | 📅 2026-01-01 ![c++][cpp] (Simple power menu/shutdown screen)
 * [sysauth](https://github.com/System64fumo/sysauth) ⭐ 29 | 🐛 0 | 🌐 C++ | 📅 2026-04-24 ![c++][cpp] (Simple authentication popup)
@@ -150,14 +150,14 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ### Runners, Menus, and Application Launchers
 
-* [rofi](https://github.com/davatorium/rofi) ⭐ 16,560 | 🐛 117 | 🌐 C | 📅 2026-11-19 ![c][c] (A window switcher, application launcher and dmenu replacement)
-* [vicinae](https://github.com/vicinaehq/vicinae) ⭐ 10,672 | 🐛 284 | 🌐 C++ | 📅 2026-11-21 ![c++][cpp] (Vicinae is a high-performance, native launcher for your desktop inspired by Raycast)
+* [rofi](https://github.com/davatorium/rofi) ⭐ 16,560 | 🐛 119 | 🌐 C | 📅 2026-11-22 ![c][c] (A window switcher, application launcher and dmenu replacement)
+* [vicinae](https://github.com/vicinaehq/vicinae) ⭐ 10,687 | 🐛 285 | 🌐 C++ | 📅 2026-11-22 ![c++][cpp] (Vicinae is a high-performance, native launcher for your desktop inspired by Raycast)
 * [walker](https://github.com/abenz1267/walker) ⭐ 3,110 | 🐛 30 | 🌐 Rust | 📅 2026-11-15 ![rust][rs] (A wayland native, highly customizable and extensible runner)
 * [bemenu](https://github.com/Cloudef/bemenu) ⭐ 1,506 | 🐛 93 | 🌐 C | 📅 2025-08-29 ![c][c] (Looks like dmenu, but crossplatform)
 * [tofi](https://github.com/philj56/tofi) ⭐ 1,411 | 🐛 115 | 🌐 C | 📅 2024-12-30 ![c][c] (Very tiny rofi inspired menu)
-* [anyrun](https://github.com/Kirottu/anyrun) ⭐ 1,319 | 🐛 75 | 🌐 Rust | 📅 2026-11-11 ![rust][rs] (A wayland native, highly customizable runner, similar to krunner)
+* [anyrun](https://github.com/Kirottu/anyrun) ⭐ 1,321 | 🐛 75 | 🌐 Rust | 📅 2026-11-11 ![rust][rs] (A wayland native, highly customizable runner, similar to krunner)
 * [onagre](https://github.com/onagre-launcher/onagre) ⭐ 677 | 🐛 12 | 🌐 Rust | 📅 2025-04-24 ![rust][rs] (A general purpose application launcher for X and wayland inspired by rofi/wofi and alfred)
-* [yofi](https://github.com/l4l/yofi) ⭐ 442 | 🐛 18 | 🌐 Rust | 📅 2026-10-25 ![rust][rs] (Yofi is a minimalistic menu for wayland)
+* [yofi](https://github.com/l4l/yofi) ⭐ 441 | 🐛 18 | 🌐 Rust | 📅 2026-10-25 ![rust][rs] (Yofi is a minimalistic menu for wayland)
 * [nwg-drawer](https://github.com/nwg-piotr/nwg-drawer) ⭐ 433 | 🐛 34 | 🌐 Go | 📅 2026-11-08 ![go][go] (Gnome-ish application drawer)
 * [sysmenu](https://github.com/System64fumo/sysmenu) ⭐ 122 | 🐛 2 | 🌐 C++ | 📅 2026-05-14 ![c++][cpp] (Simple program launcher)
 * [hypr-empty](https://github.com/nate-sys/hypr-empty) ⚠️ Archived ![rust][rs] (Open a runner on empty workspaces)
@@ -167,9 +167,9 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 ### Wallpaper
 
 * [swww](https://github.com/Horus645/swww) ⚠️ Archived ![rust][rs] (Wallpaper daemon with live switching, awesome animations, and GIF support)
-* [mpvpaper](https://github.com/GhostNaN/mpvpaper) ⭐ 1,662 | 🐛 17 | 🌐 C | 📅 2026-08-29 ![c][c] (Wallpaper daemon that wraps MPV, useful for videos, and more advanced usage)
-* [Hyprpaper](https://github.com/hyprwm/hyprpaper) ⭐ 1,360 | 🐛 54 | 🌐 C++ | 📅 2026-11-10 ![c++][cpp] (Blazing fast wayland wallpaper utility with IPC controls)
-* [waypaper](https://github.com/anufrievroman/waypaper) ⭐ 1,086 | 🐛 17 | 🌐 Python | 📅 2026-10-28 ![python][py] (GUI wallpaper setter)
+* [mpvpaper](https://github.com/GhostNaN/mpvpaper) ⭐ 1,663 | 🐛 17 | 🌐 C | 📅 2026-08-29 ![c][c] (Wallpaper daemon that wraps MPV, useful for videos, and more advanced usage)
+* [Hyprpaper](https://github.com/hyprwm/hyprpaper) ⭐ 1,361 | 🐛 54 | 🌐 C++ | 📅 2026-11-10 ![c++][cpp] (Blazing fast wayland wallpaper utility with IPC controls)
+* [waypaper](https://github.com/anufrievroman/waypaper) ⭐ 1,085 | 🐛 17 | 🌐 Python | 📅 2026-10-28 ![python][py] (GUI wallpaper setter)
 * [swaybg](https://github.com/swaywm/swaybg) ⭐ 829 | 🐛 14 | 🌐 C | 📅 2026-09-10 ![c][c] (Very simple wallpaper daemon used by default on sway)
 * [wpaperd](https://github.com/danyspin97/wpaperd) ⭐ 627 | 🐛 37 | 🌐 Rust | 📅 2026-08-10 ![rust][rs] (Minimal wallpaper daemon for Wayland)
 * [waypaper engine](https://github.com/0bCdian/Waypaper-Engine) ⭐ 274 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-01 ![typescript][ts] (GUI wallpaper setter with playlist capabilities)
@@ -180,11 +180,11 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 ### Display
 
 * [wluma](https://github.com/maximbaz/wluma) ⭐ 961 | 🐛 2 | 🌐 Rust | 📅 2026-11-07 ![rust][rs] (Automatically adjust screen brightness based on the screen contents and amount of ambient light)
-* [hyprshade](https://github.com/loqusion/hyprshade) ⭐ 575 | 🐛 9 | 🌐 Python | 📅 2026-06-07 ![python][py] (Frontend to Hyprland's screen shader feature)
+* [hyprshade](https://github.com/loqusion/hyprshade) ⭐ 576 | 🐛 9 | 🌐 Python | 📅 2026-06-07 ![python][py] (Frontend to Hyprland's screen shader feature)
 * [wl-mirror](https://github.com/Ferdi265/wl-mirror) ⭐ 546 | 🐛 21 | 🌐 C | 📅 2026-10-26 ![c][c] (A simple Wayland output mirror client)
 * [HyprDynamicMonitors](https://github.com/fiffeek/hyprdynamicmonitors) ⭐ 368 | 🐛 23 | 🌐 Go | 📅 2026-02-02 ![go][go] (Power-state-aware dynamic display configuration tool with a TUI)
 * [iio-hyprland](https://github.com/JeanSchoeller/iio-hyprland) ⭐ 111 | 🐛 2 | 🌐 C | 📅 2026-09-07 ![c][c] (Listen iio-sensor-proxy and auto change Hyprland output orientation)
-* [hyproled](https://github.com/mklan/hyproled) ⭐ 78 | 🐛 0 | 🌐 Shell | 📅 2026-10-26 ![shell][sh] (A shader utility to prevent OLED burn in)
+* [hyproled](https://github.com/mklan/hyproled) ⭐ 79 | 🐛 0 | 🌐 Shell | 📅 2026-10-26 ![shell][sh] (A shader utility to prevent OLED burn in)
 * [monitor-attached](https://github.com/coffebar/hyprland-monitor-attached) ⭐ 50 | 🐛 1 | 🌐 Rust | 📅 2026-05-04 ![rust][rs] (Run the user's script when you connect or disconnect monitors)
 * [Hyprlux](https://github.com/amadejkastelic/Hyprlux) ⭐ 37 | 🐛 0 | 🌐 Rust | 📅 2025-11-09 ![rust][rs] (Automatically adjust gamma based on time of day and toggle vibrance when certain windows are in focus)
 * [wlr-rander](https://sr.ht/~emersion/wlr-randr/) ![c][c] (An xrandr clone for wlroots compositors)
@@ -197,12 +197,12 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 * [nwg-displays](https://github.com/nwg-piotr/nwg-displays) ⭐ 1,134 | 🐛 46 | 🌐 Python | 📅 2026-10-20 ![python][py] (Provides an intuitive GUI to manage multiple monitors)
 * [hyprsunset](https://github.com/hyprwm/hyprsunset) ⭐ 490 | 🐛 18 | 🌐 C++ | 📅 2026-11-13 ![C++][cpp] (Hyprland utility for color temperature filter)
-* [Monique](https://github.com/ToRvaLDz/monique) ⭐ 203 | 🐛 5 | 🌐 Python | 📅 2026-11-09 ![python][py] (Graphical monitor configurator for Hyprland and Sway with drag-and-drop layout, profiles, and hotplug daemon)
+* [Monique](https://github.com/ToRvaLDz/monique) ⭐ 203 | 🐛 5 | 🌐 Python | 📅 2026-11-22 ![python][py] (Graphical monitor configurator for Hyprland and Sway with drag-and-drop layout, profiles, and hotplug daemon)
 * [waycorner](https://github.com/AndreasBackx/waycorner) ⭐ 153 | 🐛 7 | 🌐 Rust | 📅 2025-05-14 ![rust][rs] (Hot corners for Wayland)
 
 ### Workspace
 
-* \[hyprshell]\(<https://github.com/H3rmt/hyprshell> ⭐ 599 | 🐛 23 | 🌐 Rust | 📅 2026-11-21] ![rust][rs] (A GTK based modern Application launcher]
+* \[hyprshell]\(<https://github.com/H3rmt/hyprshell> ⭐ 599 | 🐛 24 | 🌐 Rust | 📅 2026-11-21] ![rust][rs] (A GTK based modern Application launcher]
 * [Hyprfreeze](https://github.com/Zerodya/hyprfreeze) ⭐ 254 | 🐛 0 | 🌐 Shell | 📅 2026-11-18 ![shell][sh] (Utility to suspend a game process and other programs)
 * [hyprnome](https://github.com/donovanglover/hyprnome) ⭐ 201 | 🐛 11 | 🌐 Rust | 📅 2025-01-30 ![rust][rs] (GNOME-like workspace switching in Hyprland)
 * [hyprkool](https://github.com/thrombe/hyprkool) ⭐ 86 | 🐛 2 | 🌐 Rust | 📅 2026-07-31 ![rust][rs] (Plugin that adds KDE Plasma activities and grid layouts and cusor edge workspace navigation)
@@ -215,8 +215,8 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 #### All in one Tools
 
-* [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 31,646 | 🐛 752 | 🌐 C++ | 📅 2026-11-18 ![c++][cpp] (All in one screenshotting tool with gui, annotation, + more) **(To use make sure you have grim flag enabled)**
-* [satty](https://github.com/gabm/satty) ⭐ 2,512 | 🐛 67 | 🌐 Rust | 📅 2026-11-21 ![rust][rs] (A screenshot annotation tool inspired by Swappy and Flameshot)
+* [Flameshot](https://github.com/flameshot-org/flameshot) ⭐ 31,682 | 🐛 751 | 🌐 C++ | 📅 2026-11-18 ![c++][cpp] (All in one screenshotting tool with gui, annotation, + more) **(To use make sure you have grim flag enabled)**
+* [satty](https://github.com/gabm/satty) ⭐ 2,514 | 🐛 67 | 🌐 Rust | 📅 2026-11-21 ![rust][rs] (A screenshot annotation tool inspired by Swappy and Flameshot)
 * [swappy](https://github.com/jtheoof/swappy) ⭐ 1,521 | 🐛 32 | 🌐 C | 📅 2026-11-08 ![c][c] (A Wayland native snapshot editing tool, inspired by Snappy on macOS)
 * [Hyprshot](https://github.com/Gustash/Hyprshot) ⭐ 889 | 🐛 82 | 🌐 Shell | 📅 2024-07-29 ![shell][sh] (Another grimshot-like tool to make things easier)
 * [Grimblast](https://github.com/hyprwm/contrib/tree/main/grimblast) ⭐ 401 | 🐛 14 | 🌐 Shell | 📅 2026-10-22 ![shell][sh] (Port of grimshot, which is an abstraction over grim and slurp)
@@ -236,12 +236,12 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 #### Recording
 
 * [wf-recorder](https://github.com/ammen99/wf-recorder) ⭐ 1,334 | 🐛 62 | 🌐 C++ | 📅 2026-04-12 ![c++][cpp] (Simple screenrecorder, like grim but records video)
-* [wl-screenrec](https://github.com/russelltg/wl-screenrec) ⭐ 644 | 🐛 30 | 🌐 Rust | 📅 2026-09-26 ![rust][rs] (Simple and efficient screenrecorder for AMD and Intel GPUs)
+* [wl-screenrec](https://github.com/russelltg/wl-screenrec) ⭐ 652 | 🐛 30 | 🌐 Rust | 📅 2026-09-26 ![rust][rs] (Simple and efficient screenrecorder for AMD and Intel GPUs)
 
 #### Annotation
 
 * [swappy](https://github.com/jtheoof/swappy) ⭐ 1,521 | 🐛 32 | 🌐 C | 📅 2026-11-08 ![c][c] (Annotation gui made in gtk)
-* [hyprmarker](https://github.com/devmobasa/hyprmarker) ⭐ 797 | 🐛 0 | 🌐 Rust | 📅 2026-11-21 ![rust][rs] (ZoomIt-inspired annotation and screenshot tool with drawing, shapes, text, and whiteboard modes)
+* [hyprmarker](https://github.com/devmobasa/hyprmarker) ⭐ 797 | 🐛 0 | 🌐 Rust | 📅 2026-11-22 ![rust][rs] (ZoomIt-inspired annotation and screenshot tool with drawing, shapes, text, and whiteboard modes)
 
 #### Zooming utilities
 
@@ -249,14 +249,14 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ### Input
 
-* [Keymapper](https://github.com/houmain/keymapper) ⭐ 1,185 | 🐛 12 | 🌐 C++ | 📅 2026-11-19 ![c++][cpp] (A cross-platform context-aware key remapper)
+* [Keymapper](https://github.com/houmain/keymapper) ⭐ 1,187 | 🐛 12 | 🌐 C++ | 📅 2026-11-22 ![c++][cpp] (A cross-platform context-aware key remapper)
 * [hyprland-per-window-layout](https://github.com/coffebar/hyprland-per-window-layout) ⭐ 167 | 🐛 1 | 🌐 Rust | 📅 2026-01-11 ![rust][rs] (Per window keyboard layout, zero-configuration, just works out of the box)
 * [Hyprkeys](https://github.com/hyprland-community/Hyprkeys) ⚠️ Archived ![go][go] (Utility for dealing with keybinds in Hyprland)
 * [hyprland-per-window-layout](https://github.com/MahouShoujoMivutilde/hyprland-per-window-layout) ⭐ 14 | 🐛 1 | 🌐 Shell | 📅 2024-10-04 ![shell][sh] (Script to maintain per window keyboard layout) (language)
 
 #### On-screen Keyboards
 
-* [wvkbd](https://github.com/jjsullivan5196/wvkbd) ⭐ 491 | 🐛 30 | 🌐 C | 📅 2026-11-15 ![c][c] (On-screen keyboard for wlroots)
+* [wvkbd](https://github.com/jjsullivan5196/wvkbd) ⭐ 492 | 🐛 30 | 🌐 C | 📅 2026-11-15 ![c][c] (On-screen keyboard for wlroots)
 * [sysboard](https://github.com/System64fumo/sysboard) ⭐ 55 | 🐛 2 | 🌐 C++ | 📅 2025-11-23 ![c++][cpp] (Simple virtual keyboard for wayland)
 
 ### Locking, Idle, Clipboard and Login
@@ -265,27 +265,27 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 * [Wlogout](https://github.com/ArtsyMacaw/wlogout) ⭐ 1,083 | 🐛 45 | 🌐 C | 📅 2024-07-04 ![c][c] (Logout menu)
 * [wleave](https://github.com/AMNatty/wleave) ⭐ 348 | 🐛 8 | 🌐 Rust | 📅 2026-07-25 ![rust][rs] (A Wayland-native logout script written in Gtk3)
-* [nwg-bar](https://github.com/nwg-piotr/nwg-bar) ⭐ 178 | 🐛 6 | 🌐 Go | 📅 2024-08-30 ![go][go] (GTK3-based logout bar)
+* [nwg-bar](https://github.com/nwg-piotr/nwg-bar) ⭐ 177 | 🐛 6 | 🌐 Go | 📅 2024-08-30 ![go][go] (GTK3-based logout bar)
 * [vigiland](https://github.com/Jappie3/vigiland) ⭐ 36 | 🐛 2 | 🌐 Rust | 📅 2024-06-26 ![rust][rs] (A CLI tool to inhibit the idle behaviour of a Wayland compositor, e.g. prevent locking, screen turning off, etc.)
 * [wayprompt](https://git.sr.ht/~leon_plickat/wayprompt) ![zig][z] (Pinentry prompter)
 
 #### Idle Daemons
 
 * [swayidle](https://github.com/swaywm/swayidle) ⭐ 770 | 🐛 40 | 🌐 C | 📅 2026-10-25 ![c][c] (Idle daemon used by default in sway, also only one I could find for wlroots)
-* [hypridle](https://github.com/hyprwm/hypridle) ⭐ 707 | 🐛 41 | 🌐 C++ | 📅 2026-11-10 ![c++][cpp] (Hyprland's idle daemon)
+* [hypridle](https://github.com/hyprwm/hypridle) ⭐ 708 | 🐛 41 | 🌐 C++ | 📅 2026-11-10 ![c++][cpp] (Hyprland's idle daemon)
 * [aedle](https://git.sr.ht/~aeldit/aedle) ![rust][rs] (An idle management daemon for wayland)
 
 #### Lockers
 
 * [hyprlock](https://github.com/hyprwm/hyprlock) ⭐ 1,694 | 🐛 211 | 🌐 C++ | 📅 2026-11-18 ![c++][cpp] (Hyprland's GPU-accelerated screen locking utility)
 * [swaylock](https://github.com/swaywm/swaylock) ⭐ 1,239 | 🐛 106 | 🌐 C | 📅 2026-10-29 ![c][c] (Sway's default locker, very configurable, and popular)
-* [swaylock-effects](https://github.com/mortie/swaylock-effects) ⭐ 870 | 🐛 61 | 🌐 C | 📅 2023-11-28 ![c][c] (Fork of swaylock, but with effects ^)
+* [swaylock-effects](https://github.com/mortie/swaylock-effects) ⭐ 868 | 🐛 61 | 🌐 C | 📅 2023-11-28 ![c][c] (Fork of swaylock, but with effects ^)
 * [syslock](https://github.com/System64fumo/syslock) ⭐ 19 | 🐛 0 | 🌐 C++ | 📅 2026-09-26 ![c++][cpp] (Simple screen locker for wayland)
 * [waylock](https://codeberg.org/ifreund/waylock) ![zig][z] (A small screenlocker for Wayland compositors)
 
 #### Clipboard Managers
 
-* [cliphist](https://github.com/sentriz/cliphist) ⭐ 1,580 | 🐛 9 | 🌐 Go | 📅 2026-10-07 ![go][go] (Wayland clipboard manager)
+* [cliphist](https://github.com/sentriz/cliphist) ⭐ 1,581 | 🐛 9 | 🌐 Go | 📅 2026-10-07 ![go][go] (Wayland clipboard manager)
 * [clipvault](https://github.com/Rolv-Apneseth/clipvault) ⭐ 120 | 🐛 3 | 🌐 Rust | 📅 2026-11-21 ![rust][rs] (Clipboard manager for Wayland)
 * [clipman](https://github.com/chmouel/clipman) ⭐ 91 | 🐛 5 | 🌐 Go | 📅 2026-11-03 ![go][go] (A simple clipboard manager for Wayland)
 
@@ -295,12 +295,12 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ##### Display Managers
 
-* [SDDM](https://github.com/sddm/sddm) ⭐ 2,388 | 🐛 762 | 🌐 C++ | 📅 2026-11-18 ![c++][cpp]
+* [SDDM](https://github.com/sddm/sddm) ⭐ 2,388 | 🐛 763 | 🌐 C++ | 📅 2026-11-18 ![c++][cpp]
 * [lightdm](https://github.com/canonical/lightdm) ⭐ 1,022 | 🐛 241 | 🌐 C | 📅 2026-11-14 ![c][c] (Display manager with a bunch of greeters, more info on gh repo)
 * [GDM](https://wiki.gnome.org/Projects/GDM) ![c][c]
 * [ly](https://codeberg.org/fairyglade/ly) ![zig][z] (A lightweight TUI *ncurses-like* display manager for Linux and BSD)
 * [Greetd](https://sr.ht/~kennylevinsen/greetd/) ![rust][rs] (Login daemon with a couple greeters, bellow are some good ones)
-  * [tuigreet](https://github.com/apognu/tuigreet) ⭐ 1,873 | 🐛 36 | 🌐 Rust | 📅 2026-11-21 ![rust][rs] (Graphical console greeter for greetd)
+  * [tuigreet](https://github.com/apognu/tuigreet) ⭐ 1,874 | 🐛 36 | 🌐 Rust | 📅 2026-11-21 ![rust][rs] (Graphical console greeter for greetd)
   * [gtkgreet](https://git.sr.ht/~kennylevinsen/gtkgreet) ![c][c] (Very simple gtk greeter)
   * [qtgreet](https://gitlab.com/marcusbritanicus/QtGreet) ![c++][cpp] (Configurable and overall more complicated greeter in QT)
   * [wlgreet](https://git.sr.ht/~kennylevinsen/wlgreet) ![rust][rs] (Very basic greeter in raw wayland and SCTK)
@@ -367,4 +367,4 @@ These technically aren't hyprland plugins, but extend hyprland functionality usi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
